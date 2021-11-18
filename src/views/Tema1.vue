@@ -905,11 +905,540 @@
               .col-lg-10.p-5
                 p.mb-0.text-center Debe ser controlado, pues es susceptible de consumo, agotamiento.
 
+    .row.justify-content-center.align-items-center.mt-5      
+      .col-lg-8.cajon.color-secundario.p-4.mb-4(data-aos="fade-left")
+        p.mb-0(data-aos="zoom-in") Algunos ejemplos de estos tipos de activos pueden ser pólizas de seguros, honorarios, contratos de mantenimiento, contratos de suministro que requieren fabricación o producción gradual, arrendamientos anualizados, etc. 
 
+    .row.justify-content-center.align-items-center.mt-5      
+      .col-lg-8
+        p.color-purp(data-aos="zoom-in-down") Ejemplo de amortización de una póliza de seguros
+        p(data-aos="zoom-in") El 01 de diciembre de 2020, la empresa Contable S.A.S., adquiere por un año una póliza de seguro por valor de $12.000.000, la cual se paga por transferencia bancaria en efectivo.
+
+    .row.justify-content-center.align-items-center.my-5  
+      .col-lg-8
+        .titulo-sexto.color-acento-contenido(data-aos="zoom-in-down")
+          h5 Tabla 15.  
+          span Registro de compra de una póliza de seguros
+        .tabla-a.color-acento-contenido.mt-3(data-aos="zoom-in-down")
+          table
+            thead
+              tr
+                th Cuenta
+                th Debe
+                th Haber
+            tbody
+              tr
+                td Anticipo – seguros
+                td.text-center $ 12.000.000         
+                td.text-center         
+              tr
+                td Efectivo
+                td.text-center         
+                td.text-center $ 12.000.000 
+              tr
+                td Total
+                td.text-center $ 12.000.000         
+                td.text-center $ 12.000.000 
+
+    .row.justify-content-center.align-items-stretch.mt-5.d-block.d-lg-none
+      p(data-aos="zoom-in") Una vez transcurrido el mes, es decir al 31 de diciembre se debe realizar la amortización del primer mes, teniendo en cuenta que se haya trasladado el valor de dicho mes, a la cuenta de gastos-clase 5 del estado de resultados, y que se haya calculado de la siguiente manera:
+
+      p(data-aos="zoom-in") Para el cálculo de la amortización sobre el seguro, que es lo consumido en el mes de diciembre, se parte del valor total de la póliza de seguros y se divide en 12 meses que corresponden al periodo de amortización exactamente.    
+    .row.justify-content-center.align-items-stretch.mt-5.pt-5
+      .col-lg-8.d-none.d-lg-block
+        .row.justify-content-start.align-items-end  
+          .col-lg-4(data-aos="zoom-in-down")
+            img(src='@/assets/ilustraciones/img27.svg', alt='')
+        .row.justify-content-end.align-items-end 
+          .col-lg-9.text-top
+            p(data-aos="zoom-in") Una vez transcurrido el mes, es decir al 31 de diciembre se debe realizar la amortización del primer mes, teniendo en cuenta que se haya trasladado el valor de dicho mes, a la cuenta de gastos-clase 5 del estado de resultados, y que se haya calculado de la siguiente manera:
+
+            p(data-aos="zoom-in") Para el cálculo de la amortización sobre el seguro, que es lo consumido en el mes de diciembre, se parte del valor total de la póliza de seguros y se divide en 12 meses que corresponden al periodo de amortización exactamente.
+
+    .row.justify-content-center.align-items-center.mt-5  
+      .col-lg-6
+        .row.justify-content-center.align-items-center(data-aos="flip-down")       
+          .col-lg-12.col-color-3.px-5.py-3
+            p Valor mensual para amortizar por concepto de seguros pagados por anticipado = $ 12.000.000 / 12
+
+            p.mb-0 Valor mensual para amortizar: $1.000.000.
+    .row.justify-content-center.align-items-center.mt-5  
+      .col-lg-8 
+        p(data-aos="zoom-in") La contabilización de la amortización del seguro comprado anticipadamente y que corresponde a lo consumido durante el mes de diciembre de 2020, se realiza de la siguiente manera:
+
+    .row.justify-content-center.align-items-center.mt-5  
+      .col-lg-8
+        .titulo-sexto.color-acento-contenido(data-aos="zoom-in-down")
+          h5 Tabla 16.  
+          span Registro de gastos por amortización en seguros pagados por anticipado
+        .tabla-a.color-acento-contenido.mt-3(data-aos="zoom-in-down")
+          table
+            thead
+              tr
+                th Cuenta
+                th Debe
+                th Haber
+            tbody
+              tr
+                td Gastos seguros
+                td.text-center $ 1.000.000         
+                td.text-center         
+              tr
+                td Anticipo – seguros
+                td.text-center         
+                td.text-center $ 1.000.000 
+              tr
+                td Total
+                td.text-center $ 1.000.000         
+                td.text-center $ 1.000.000
+
+    .row.justify-content-center.align-items-center.mt-5  
+      .col-lg-8 
+        p(data-aos="zoom-in") En el año siguiente de 2021, el seguro sigue vigente y su proceso de amortización debe realizarse de manera similar cada mes, hasta que se haya consumido la totalidad del cubrimiento lo que refiere que se recibió la totalidad del servicio, momento en que el activo pagado por anticipado quede en cero su valor, y su contraparte que es lo consumido en 2021 se vea trasladado al gasto, en el estado de resultados.
+
+    .row.justify-content-center.align-items-center.mt-5  
+      .col-lg-6
+        .titulo-sexto.color-acento-contenido(data-aos="zoom-in-down")
+          h5 Figura 6.  
+          span Amortización mensual    
+        img.mt-3(src='@/assets/ilustraciones/img28.svg', alt='')
+    .row.justify-content-center.align-items-center  
+      .col-lg-10.col-color-4.p-4
+        p(data-aos="zoom-in").p-color-white.p-5 Así mismo que en las depreciaciones, en el cálculo y registro de las amortizaciones se puede utilizar diferentes métodos para repartir o distribuir el valor del activo amortizable, las cuales una vez definidas se aplicarán de forma sistemática cada periodo, a lo largo de su vida útil o esperanza de tiempo de durabilidad del activo. Los métodos para reconocer el consumo de los activos diferidos son el método lineal, el de amortización decreciente y el de amortización en función productiva a partir de las unidades producidas. El método elegido a utilizar se aplica a partir de la forma de consumo de los beneficios económicos producidos o a producir en el futuro por parte del activo que se trate y se aplicará igualmente periodo a periodo.
+
+    separador(data-aos="slide-left")
+
+    #t_1_6.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 1.6.  Diferencia en cambio de visas 
+    p(data-aos="zoom-in") Dentro del ejercicio empresarial este tipo de revisiones y verificaciones son muy importantes, porque afectan el efectivo y disponible, y se dan cuando la empresa realiza transacciones comerciales en moneda extranjera regularmente en dólares o euros que son las más utilizadas, ya que tienen contratos o celebran negocios en el extranjero; por lo tanto, al realizar la conversión de moneda para la presentación de la información contable la empresa se encuentra expuesta al riesgo cambiario que puede ser sancionable, y genera diferencias que deben corregirse y registrarse, su ajuste consiste en reflejar la realidad del valor de las transacciones y del impacto económico en la empresa sobre el efectivo de bancos y sus costos de cambio en sí.
+
+    .row.justify-content-center.align-items-center.mt-5  
+      .col-lg-6
+        p(data-aos="zoom-in") La Norma Internacional de contabilidad NIC- 21 (p A195), expresa en su objetivo:
+        .hr
+    .row.justify-content-center.align-items-stretch.mt-5  
+      .col-lg-5.color-col-1.p-4(data-aos="fade-right")
+        img.img-a.img-t.my-3(src='@/assets/ilustraciones/img29.svg', alt='')
+        p(data-aos="zoom-in") 1. Una empresa puede llevar a cabo actividades en el extranjero de dos maneras diferentes. Puede realizar transacciones en moneda extranjera o bien puede tener negocios en el extranjero. Además, la entidad puede presentar sus estados financieros en una moneda extranjera. El objetivo de esta norma es indicar cómo se incorporan, en los estados financieros de una entidad, las transacciones en moneda extranjera y los negocios en el extranjero, y cómo convertir los estados financieros a la moneda de la locación donde opera.  
+
+      .col-lg-5.color-col-2.p-4(data-aos="fade-left")
+        img.img-a.img-t.my-3(src='@/assets/ilustraciones/img30.svg', alt='')
+        p(data-aos="zoom-in") 2. Los principales problemas que se presentan son la tasa o tasas de cambio a utilizar, así como la manera de informar sobre los efectos de las variaciones en las tasas de cambio dentro de los estados financieros.
+
+    .row.justify-content-center.align-items-center.mt-5  
+      .col-lg-10
+        p(data-aos="zoom-in").text-center Cabe resaltar que para el grupo 2- NIIF pymes aplica la sección 30 “Conversión de la moneda extranjera”. 
+        p.color-purp(data-aos="zoom-in-down") Ejemplo de verificación y ajuste por tipo de cambio: 
+        p(data-aos="zoom-in") El 24 de noviembre de 2020 la empresa Container Ltda. adquiere maquinaria y equipo por valor de USD$57.000, a una tasa de COP$3.500. El 18 de diciembre de 2020, se transfiere el riesgo una vez la máquina se encuentra en Colombia, fecha en la cual se realizará el pago. Cuando se realiza el proceso de nacionalización la tasa vigente es COP$3.620.
+        p(data-aos="zoom-in") De acuerdo con lo anterior se tiene:
+    .row.justify-content-center.align-items-center.mt-5  
+      .col-lg-4
+        p(data-aos="zoom-in").text-center.p-3.mb-0.p-color-4 24 de noviembre de 2020. 
+    .row.justify-content-center.align-items-center.mt-5  
+      .col-lg-8
+        .titulo-sexto.color-acento-contenido(data-aos="zoom-in-down")
+          h5 Tabla 17.  
+          span Registro por la compra de maquinaria en el extranjero pagadera a crédito
+        .tabla-a.color-acento-contenido.mt-3(data-aos="zoom-in-down")
+          table
+            thead
+              tr
+                th Cuenta
+                th Débito
+                th Crédito
+            tbody
+              tr
+                td Propiedad, planta y equipo - Maquinaria
+                td.text-center $199.500.000    
+                td.text-center         
+              tr
+                td Pasivo - Acreedores del exterior
+                td.text-center         
+                td.text-center $199.500.000    
+
+    .row.justify-content-center.align-items-center.mt-5  
+      .col-lg-4
+        p(data-aos="zoom-in").text-center.p-3.mb-0.p-color-4 18 de diciembre de 2020. 
+    .row.justify-content-center.align-items-center.mt-5  
+      .col-lg-8
+        p(data-aos="zoom-in") Se origina una diferencia por diferencia en cambio, aumenta el valor del pasivo, ya que subió la tasa de cambio el día en que se dio la llegada y entrega de la máquina en el puerto de Colombia, el valor de la factura es el mismo ante el proveedor, pero esta obligación en pesos es mayor, como consecuencia del incremento en la tasa de cambio del día, que es donde ocurre el hecho económico de entrega oficialmente. El nuevo saldo de la obligación es de $206.340.000, lo que implicó un sobre costo de $6.840.000, al momento de reconocer la entrega y recibo de la máquina, y será el dato que se debe verificar haya sido registrado en la contabilidad. La Norma internacional de Información Financiera para las pymes, indica que el ajuste por diferencia en cambio monetario debe incluirse en los resultados del periodo y no debe incluirse como parte del costo del activo en su valor general. 
+        .titulo-sexto.color-acento-contenido.mt-5(data-aos="zoom-in-down")
+          h5 Tabla 18.  
+          span Registro de ajuste por diferencia en cambio
+        .tabla-a.color-acento-contenido.mt-3(data-aos="zoom-in-down")
+          table
+            thead
+              tr
+                th Cuenta
+                th Débito
+                th Crédito
+            tbody
+              tr
+                td Gasto - Diferencia en cambio 
+                td.text-center $ 6.840.000
+                td.text-center         
+              tr
+                td Pasivo - Acreedores del exterior
+                td.text-center         
+                td.text-center $ 6.840.000
+
+
+    separador(data-aos="slide-left")
+
+    #t_1_7.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 1.7.  Arqueo de caja
+    p(data-aos="zoom-in") Las empresas hacen el manejo del efectivo líquido o eminentemente monetario, en las cuentas que dispone la contabilidad las cuales son la de caja general y caja menor, donde esta última se utiliza especialmente para compras y gastos de menor cuantía, la cual en su globalidad se debe establecer por políticas contables de la empresa, así como el valor del fondo de dicha caja y los conceptos de recursos en los que se pueden aplicar dichos fondos. En segunda instancia, la caja general se utiliza para cancelar gastos por conceptos de mayor cuantía. En los dos casos es perentorio realizar la verificación y realizar el arqueo a cada caja, operación que consiste en comparar el valor de libros y sus soportes con los dineros suministrados y que sumen lo que efectivamente existe en la caja más el disponible que den como resultado el valor inicial del fondo.
+
+    p(data-aos="zoom-in") Esta operación de arqueo por comparación puede identificar diferencias que requieren de ajustes contables que mediante una nota de contabilidad se pueden cerrar dichas brechas, dentro de las que se pueden encontrar:
+
+    .row.justify-content-center.align-items-center.mt-5  
+      .col-lg-10.caja-color
+        .row.justify-content-center.align-items-center  
+          .col-lg-4
+            img.img-a.img-t.my-3(src='@/assets/ilustraciones/img31.svg', alt='')
+          .col-lg-8
+            p(data-aos="zoom-in").mb-0 #[b El valor en libros es mayor al valor encontrado al momento del arqueo de caja]: esto representa un faltante de dinero, por ende, se debe identificar si falto algo por registrar o identificar al responsable de dicha situación para que reporte las transacciones faltantes y proceder a realizar el ajuste con el fin de reflejar la realidad económica y el saldo correcto del efectivo. 
+
+    p(data-aos="zoom-in").mt-5.text-center Enseguida se pueden detallar algunos ejemplos de caja menor según los valores encontrados:
+    
+    AcordionA(data-aos="zoom-in-down").mt-5(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
+      .row.justify-content-center.align-items-center.title-color(titulo=" A. Ej.: Ajuste en caja menor")
+        .col-lg-11
+          p Sandra Rojas pagó por concepto de papelería $40.000, sin embargo, no se registró dicho concepto en los libros. Por lo tanto, se realiza el ajuste por medio de un recibo de caja firmado por parte a quien genero el recibido del dinero con su concepto, registrando el concepto pendiente. 
+          .row.justify-content-center.align-items-center
+            .col-lg-10
+              .titulo-sexto.color-acento-contenido.mt-5
+                h5 Tabla 19.  
+                span Asiento de ajuste en caja menor
+              .tabla-a.color-acento-contenido.mt-3
+                table
+                  thead
+                    tr
+                      th Cuentas
+                      th Debe
+                      th Haber
+                  tbody
+                    tr
+                      td Gastos de papelería 
+                      td.text-center $ 40.000
+                      td.text-center         
+                    tr
+                      td Efectivo
+                      td.text-center         
+                      td.text-center $ 40.000
+                    tr
+                      td Total
+                      td.text-center $ 40.000         
+                      td.text-center $ 40.000
+              p.mt-5 Faltante injustificado, no se evidencia el concepto o soporte por el que falta dinero en la caja, una vez se realizó el arqueo. Por lo anterior, el colaborador es responsable de este suceso y deberá sustentar y/o responder.
+
+      .row.justify-content-center.align-items-center.title-color(titulo=" B. Ej.: Faltante caja menor ")
+        .col-lg-11
+          p Se realizó un arqueo de caja, y se observa que se presentó un faltante injustificado y sin soporte del gasto por valor de $50.000.
+          .row.justify-content-center.align-items-center
+            .col-lg-10
+              .titulo-sexto.color-acento-contenido.mt-5
+                h5 Tabla 20.  
+                span Ajuste de asiento por faltante en caja menor
+              .tabla-a.color-acento-contenido.mt-3
+                table
+                  thead
+                    tr
+                      th Cuentas
+                      th Debe
+                      th Haber
+                  tbody
+                    tr
+                      td Efectivo 
+                      td.text-center $ 50.000
+                      td.text-center         
+                    tr
+                      td Cuentas por cobrar a trabajadores
+                      td.text-center         
+                      td.text-center $ 50.000
+                    tr
+                      td Total
+                      td.text-center $ 50.000        
+                      td.text-center $ 50.000
+              p.mt-5 El segundo caso de diferencia en caja obedece cuando el valor de libros es menor al valor del dinero encontrado al momento del arqueo de la caja, en este caso, la diferencia representa un sobrante de dinero, ya que hay más soportes que en sumatoria junto con el dinero efectivo, superan el valor del fondo, lo cual también exige realizar un ajuste contable. Los casos que se presentan son los siguientes:
+
+      .row.justify-content-center.align-items-center.title-color(titulo=" C.	Ej.: Excedente caja menor")
+        .col-lg-11
+          p Una cliente abona a sus cuentas pendientes un valor de $500.000, pagando una de sus facturas pendientes, el valor es recibido en la ventanilla de la empresa, sin embargo, no se realiza el registro contable; por lo tanto, se debe adelantar un ajuste aumentando la cuenta de efectivo.
+          .row.justify-content-center.align-items-center
+            .col-lg-10
+              .titulo-sexto.color-acento-contenido.mt-5
+                h5 Tabla 21.  
+                span Asiento de ajuste por excedente en caja
+              .tabla-a.color-acento-contenido.mt-3
+                table
+                  thead
+                    tr
+                      th Cuentas
+                      th Debe
+                      th Haber
+                  tbody
+                    tr
+                      td Efectivo 
+                      td.text-center $ 500.000
+                      td.text-center         
+                    tr
+                      td Deudores comerciales- clientes 
+                      td.text-center         
+                      td.text-center $ 500.000
+                    tr
+                      td Total
+                      td.text-center $ 500.000         
+                      td.text-center $ 500.000
+              p.mt-5 Cuando los sobrantes en la caja injustificados son de cuantía menor se aumenta el valor de efectivo y el valor de los ingresos, pero si es un valor mayor y significativo, debe establecerse las posibles causas que originaron el sobrante y se llevara esa partida registrándola como un pasivo, una obligación frente a acreedores varios, mientras se reconoce su procedencia de excedente.
+
+    separador(data-aos="slide-left")
+
+    #t_1_7.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 1.8.  Conciliación bancaria
+    p(data-aos="zoom-in") Este proceso es semejante y corresponde analógicamente a lo que se realiza en la operación de arqueo de la caja, pero en este caso se hace sobre los recursos monetarios manejados en cuentas bancarias, bien sea de cuentas ahorro o cuentas corrientes regularmente. La conciliación bancaria es el proceso de verificación y comparación de los valores registrados en libros de cada una de las cuentas de bancos, en contraste con los documentos externos de extracto de la cuenta de ahorros o corriente que es generado y reportado por la entidad financiera donde la empresa tiene la cuenta; el objetivo de este ejercicio, como se mencionó, es identificar las partidas de movimientos de la cuenta y sus diferencias para, posteriormente, realizar los ajustes contables respectivos, que permitan llevar la información de manera entendible, sustentada de cada movimiento, útil y oportuna para la toma de decisiones.
+
+    .row.justify-content-center.align-items-center.mt-5      
+      .col-lg-10.cajon.color-primario.py-4.mb-4.px-5(data-aos="fade-left")
+        p.mb-0 Regularmente el ejercicio de conciliación se recomienda hacerse de forma mensual, dado su volumen, y teniendo en cuenta confirmar las fechas de las transacciones, los montos en valor, y los soportes de las transacciones en caso de compras o pagos. Posteriormente, se realiza un análisis de las diferencias hallazgos encontrados, procediendo a realizar los ajustes.
+
+    .row.justify-content-center.align-items-center.mt-4      
+      .col-lg-10
+        p Los resultados o hallazgos en las verificaciones realizadas por conciliación bancaria, que con mayor frecuencia se presentan son los siguientes:
+        .hr-gray.my-3
+    .row.justify-content-center.align-items-center
+      .col-lg-1
+        img.img-a.img-t.my-3(src='@/assets/ilustraciones/a.svg', alt='')
+      .col-lg-9
+        p.color-purp(data-aos="zoom-in") #[b Valores no registrados por la empresa y que se reflejan en el extracto bancario.] 
+        p.mb-0(data-aos="fade-left") En este caso se debe realizar ajustes mediante notas débito y notas crédito, de acuerdo con la transacción que se esté presentando.
+    .row.justify-content-center.align-items-center
+      .col-lg-10    
+        .hr-gray.my-3
+    .row.justify-content-center.align-items-start
+      .col-lg-1
+        img.img-a.img-t.my-3(src='@/assets/ilustraciones/b.svg', alt='')
+      .col-lg-9
+        p.color-purp(data-aos="zoom-in") #[b Otros valores no registrados.] 
+        p(data-aos="fade-left") Dentro de estos hallazgos que se presentan en la conciliación bancaria se encuentran los gastos por concepto de chequeras, comisiones bancarias cobradas, comisiones cobradas por cheques devueltos, intereses de sobregiros, intereses por préstamos y otros cobros realizados por las entidades financieras; Los ajustes en estos casos disminuyen la cuenta de bancos en el crédito (haber) y aumentan la cuenta al débito (debe), para los cual se usan las notas contables, relacionada con el concepto que se está cancelando. Ahora, se revisarán algunos ejemplos:
+
+        p.color-purp(data-aos="fade-right").color-gray.mt-5 #[b 1)   Ej.: Registro por compra chequera]
+        p(data-aos="zoom-in") La empresa Containers Ltda., no registra la compra de chequera por valor de $180.000, más IVA del 19%, la cual se encuentra debidamente registrada en el extracto bancario emitido por la entidad financiera, y es con la que opera la empresa. 
+
+        .row.justify-content-center.align-items-center
+          .col-lg-10
+            .titulo-sexto.color-acento-contenido.mt-5
+              h5 Tabla 22.  
+              span Ajuste de Asiento por compra de chequera
+            .tabla-a.color-acento-contenido.mt-3
+              table
+                thead
+                  tr
+                    th Cuentas
+                    th Debe
+                    th Haber
+                tbody
+                  tr
+                    td Gastos bancarios(chequera) 
+                    td.text-center  $ 180.000
+                    td.text-center         
+                  tr
+                    td IVA
+                    td.text-center $ 34.200         
+                    td.text-center
+                  tr
+                    td Bancos
+                    td.text-center 
+                    td.text-center $ 214.200                     
+                  tr
+                    td Total
+                    td.text-center $ 214.200
+                    td.text-center $ 214.200
+
+        p.color-purp(data-aos="fade-right").color-gray.mt-5 #[b 2)	Ej.: Registro por Gastos a los Movimientos Financieros (GMF)]
+        p(data-aos="zoom-in") En un extracto bancario de cuenta corriente de la empresa, se encuentra registrada una partida débito por concepto de Gravamen a los movimientos financieros por un valor de $90.300, el cual, no se encuentra registrado en los libros contables de la empresa, ya que no se lleva registro y control sobre este gravamen. 
+
+        .row.justify-content-center.align-items-center
+          .col-lg-10
+            .titulo-sexto.color-acento-contenido.mt-5
+              h5 Tabla 23.  
+              span Ajuste de Asiento por gastos a los movimientos financieros
+            .tabla-a.color-acento-contenido.mt-3
+              table
+                thead
+                  tr
+                    th Cuentas
+                    th Debe
+                    th Haber
+                tbody
+                  tr
+                    td Gastos financieros (GMF)
+                    td.text-center  $ 90.300
+                    td.text-center         
+                  tr
+                    td Bancos
+                    td.text-center 
+                    td.text-center $ 90.300       
+                  tr
+                    td Total
+                    td.text-center $ 90.300
+                    td.text-center $ 90.300
+
+        p.color-purp(data-aos="fade-right").color-gray.mt-5 #[b 3)	Ej.: Registro cheque devuelto]
+        p(data-aos="zoom-in") En muchas ocasiones en las empresas se registran valores reconocidos en los libros contables, pero que no se ven reflejados ni registrados por la entidad financiera en el extracto, estos casos suceden regularmente cuando existen pagos por medio de cheques pendientes de pago o de cobro, o que han sido devueltos, también si al momento del cierre del extracto se presentaban en estado de canje o de remesas en tránsito.
+
+        p.color-purp(data-aos="fade-right").color-gray.mt-5 #[b 4)	Ej.: Por notas débito]
+        p(data-aos="zoom-in") En el extracto bancario existe una nota débito por concepto de un cheque girado por el cliente Carlos Téllez por valor de $ 600.000, consignado a la empresa Containers Ltda., fue devuelto por la entidad financiera por fondos insuficientes de la cuenta del cliente, por lo anterior, el valor de devolución no se encuentra registrado en los libros contables de la empresa. 
+
+        .row.justify-content-center.align-items-center
+          .col-lg-10
+            .titulo-sexto.color-acento-contenido.mt-5
+              h5 Tabla 24.  
+              span Asiento de ajuste por nota débito - cheque devuelto
+            .tabla-a.color-acento-contenido.mt-3
+              table
+                thead
+                  tr
+                    th Cuentas
+                    th Debe
+                    th Haber
+                tbody
+                  tr
+                    td Clientes
+                    td.text-center  $ 600.000
+                    td.text-center         
+                  tr
+                    td Bancos
+                    td.text-center 
+                    td.text-center $ 600.000       
+                  tr
+                    td Total
+                    td.text-center $ 600.000
+                    td.text-center $ 600.000
+
+        .row.justify-content-center.align-items-center.mt-5
+          .col-lg-12.debito-color.px-5
+            .row.justify-content-center.align-items-center
+              .col-lg-2
+                img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/ilustraciones/img32.svg', alt='')
+              .col-lg-10            
+                p(data-aos="zoom-in").mb-0 #[b Por notas crédito]: estas diferencias obedecen cuando en los extractos bancarios se presentan notas crédito por concepto de préstamos abonados en cuenta corriente, consignaciones de clientes no reportadas, rendimientos financieros a favor. 
+        p.color-purp(data-aos="fade-right").color-gray.mt-5 #[b 5)	Ej.: Consignación realizada por el cliente y no registrada]
+        p(data-aos="zoom-in") Al realizar la verificación y conciliación por confrontación del extracto bancario frente a los libros de bancos, se observa que el extracto relaciona una nota crédito por valor de $550.000, correspondiente a la consignación realizada por el cliente Jorge Medina y no registrada por la empresa.
+
+        p(data-aos="zoom-in") Se realiza la contabilización aumentando la cuenta de bancos y disminuyendo la cuenta de clientes.
+
+        .row.justify-content-center.align-items-center
+          .col-lg-10
+            .titulo-sexto.color-acento-contenido.mt-5
+              h5 Tabla 25.  
+              span Ajuste de asiento por consignaciones no contabilizadas
+            .tabla-a.color-acento-contenido.mt-3
+              table
+                thead
+                  tr
+                    th Cuentas
+                    th Debe
+                    th Haber
+                tbody
+                  tr
+                    td Bancos 
+                    td.text-center $ 550.000
+                    td.text-center         
+                  tr
+                    td Clientes
+                    td.text-center 
+                    td.text-center $ 550.000       
+                  tr
+                    td Total
+                    td.text-center $ 550.000
+                    td.text-center $ 550.000
+
+    .row.justify-content-center.align-items-center.mt-5
+      .col-lg-10    
+        .hr-gray.mb-3
+    .row.justify-content-center.align-items-start
+      .col-lg-1
+        img.img-a.img-t.my-3(src='@/assets/ilustraciones/c.svg', alt='')
+      .col-lg-9
+        p.color-purp(data-aos="zoom-in") #[b Por errores en libros.] 
+        p(data-aos="fade-left") Estos tipos de hallazgos en el proceso de verificación, regularmente se presentan por errores de digitación con efectos en un menor o mayor valor en la contabilidad, y los conceptos pueden ser variados: en caja, en bancos por consignaciones, en pagos a proveedores, en cuentas nuevas con proveedores, etc. A continuación, revisemos algunos ejemplos de típicos errores:
+
+        p.color-purp(data-aos="fade-right").color-gray.mt-5 #[b 1) Ej.: Hallazgo de un registro de menor valor que la consignación]
+        p(data-aos="zoom-in") En la empresa Containers Ltda., de su operación en punto de ventas, se recibió y quedó en caja dinero en efectivo, por el cual se realizó una consignación en la cuenta corriente de la empresa por valor de $1.000.000; sin embargo, el registro contable aparece por $100.000.
+
+        p(data-aos="zoom-in") En este caso, una vez identificada la diferencia se debe realizar el ajuste por un valor correspondiente a la diferencia, aumentado la cuenta de bancos en el activo, lo que se soportará con la respectiva nota contable.
+
+        .row.justify-content-center.align-items-end
+          .col-lg-8
+            .titulo-sexto.color-acento-contenido.mt-5
+              h5 Tabla 26.  
+              span Ajuste de asiento por menor valor registrado de una consignación
+            .tabla-a.color-acento-contenido.mt-3
+              table
+                thead
+                  tr
+                    th Cuentas
+                    th Debe
+                    th Haber
+                tbody
+                  tr
+                    td Bancos 
+                    td.text-center  $ 900.000
+                    td.text-center         
+                  tr
+                    td Efectivo (caja)
+                    td.text-center 
+                    td.text-center  $ 900.000       
+                  tr
+                    td Total
+                    td.text-center  $ 900.000
+                    td.text-center  $ 900.000
+          .col-lg-2
+            img.img-a.img-t.mt-3(src='@/assets/ilustraciones/img33.svg', alt='')
+
+        p.color-purp(data-aos="fade-right").color-gray.mt-5 #[b 2) Ej.: Registro de menor valor por pago a un proveedor por transferencia bancaria]
+        p(data-aos="zoom-in") La empresa Containers Ltda., realiza un pago a un proveedor para pagar una factura por un pedido de insumos suministrado en días pasados, se realiza por transferencia bancaria a la cuenta del proveedor por valor de $810.000; pero el hallazgo en la revisión indica que el registro contable se realizó por $180.000.
+
+        .row.justify-content-center.align-items-center.mt-5      
+          .col-lg-12.cajon.color-acento-botones.p-4(data-aos="fade-left")
+            p.mb-0(data-aos="zoom-in") Como se observa, en este caso el error es de digitación por parte de quien realizó el registro contable, ya que intercambio los números iniciales, sin embargo, el pago si quedó bien realizado y el proveedor recibió su pago completo, sino se hubiera considerado un abono, y este lo hubiera reportado, y el registro hubiese quedado bien, con el proveedor indispuesto por incumplimiento en el pago total, lo que también hay que evitar.
+
+        p(data-aos="zoom-in").mt-5 En este caso se debe realizar el ajuste por la diferencia en por medio de una nota contable, para que concuerde con el movimiento efectivo en la cuenta bancaria y su extracto.                      
+
+        .row.justify-content-center.align-items-end
+          .col-lg-10
+            .titulo-sexto.color-acento-contenido.mt-5
+              h5 Tabla 27.  
+              span Ajuste de asiento de por menor valor registrado en un pago a proveedor en transferencia bancaria
+            .tabla-a.color-acento-contenido.mt-3
+              table
+                thead
+                  tr
+                    th Cuentas
+                    th Debe
+                    th Haber
+                tbody
+                  tr
+                    td Proveedores  
+                    td.text-center  $ 630.000
+                    td.text-center         
+                  tr
+                    td Bancos
+                    td.text-center 
+                    td.text-center  $ 630.000
+                  tr
+                    td Total
+                    td.text-center  $ 630.000
+                    td.text-center  $ 630.000
+    .row.justify-content-center.align-items-center.mt-5
+      .col-lg-10    
+        .hr-gray.mb-3                    
 </template>
 
 <script>
 import Muestras from '../components/Muestras' // borrar una vez el componente "Muestras" no se necesite
+
 import TabSpecial from '../components/TabSpecial.vue'
 const tabicono1 = require('@/assets/ilustraciones/11.svg')
 const tabicono2 = require('@/assets/ilustraciones/22.svg')
@@ -917,6 +1446,7 @@ const tabicono3 = require('@/assets/ilustraciones/33.svg')
 const numerotab1 = require('@/assets/ilustraciones/1.svg')
 const numerotab2 = require('@/assets/ilustraciones/2.svg')
 const numerotab3 = require('@/assets/ilustraciones/3.svg')
+
 export default {
   name: 'Tema1',
   components: {
