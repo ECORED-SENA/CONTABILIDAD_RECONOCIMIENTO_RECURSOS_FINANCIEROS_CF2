@@ -22,11 +22,11 @@
     .row.justify-content-start.align-items-center.mt-5
       .col-lg-8.text-sup(data-aos="fade-right")
         p(data-aos="zoom-in") La información contable y financiera se estructura y compila por libros auxiliares y libros principales, la manera de diligenciarla debe ser en orden cronológico, en conformidad a la normatividad establecida. Los libros contables están estructurados por el conjunto de documentos de comprobantes contables que son la base para la construcción de los estados financieros (Angulo, 2018). Estos documentos de estados financieros, desde lo definido el Decreto Ley 19 de 2012 (Secretaría del Senado, 2020), se deben radicar y registrar en las cámaras de comercio en las diferentes ciudades donde operan las empresas, junto con los libros de actas de socios y accionistas.
-    .row.justify-content-end.align-items-center.mt-5           
+    .row.justify-content-end.align-items-center           
       .col-lg-5.d-none.d-lg-block(data-aos="fade-left")
         img.img-t.img-a.img-top-4(src='@/assets/ilustraciones/img44.svg', alt='') 
 
-    p(data-aos="zoom-in").mt-5 La normatividad establece los libros que se deben diligenciar y presentar periódicamente en las cámaras de comercio o en la Superintendencia de Sociedades de darse a lugar, y siguiendo a Angulo (2018) son:
+    p(data-aos="zoom-in") La normatividad establece los libros que se deben diligenciar y presentar periódicamente en las cámaras de comercio o en la Superintendencia de Sociedades de darse a lugar, y siguiendo a Angulo (2018) son:
 
     LineaTiempoD.mt-5.color-primario
       .row.justify-content-center.align-items-center(numero="1" titulo="Libro de diario")
@@ -71,7 +71,7 @@
                   img.img-t.img-a.my-3(src='@/assets/ilustraciones/img49.svg', alt='')
                   .row.justify-content-center.align-items-center
                     .col-lg-10
-                      a.anexo.mt-4(:href="obtenerLink('/downloads/libro-diario-general.png')" target="_blank")
+                      a.anexo.mt-4(:href="obtenerLink('/downloads/libro-diario-general.pdf')" target="_blank")
                         .anexo__icono
                           img(src="@/assets/template/icono-pdf.svg")
                         .anexo__texto
@@ -102,7 +102,7 @@
                   img.img-t.img-a(src='@/assets/ilustraciones/img46.svg', alt='')
                   .row.justify-content-center.align-items-center
                     .col-lg-10
-                      a.anexo.mt-4(:href="obtenerLink('/downloads/mayor.jpg')" target="_blank")
+                      a.anexo.mt-4(:href="obtenerLink('/downloads/mayor.pdf')" target="_blank")
                         .anexo__icono
                           img(src="@/assets/template/icono-pdf.svg")
                         .anexo__texto
@@ -122,7 +122,7 @@
               img.img-t.img-a.my-3(src='@/assets/ilustraciones/img46.svg', alt='')
               .row.justify-content-center.align-items-center
                 .col-lg-10
-                  a.anexo.mt-4(:href="obtenerLink('/downloads/mayor.jpg')" target="_blank")
+                  a.anexo.mt-4(:href="obtenerLink('/downloads/mayor.pdf')" target="_blank")
                     .anexo__icono
                       img(src="@/assets/template/icono-pdf.svg")
                     .anexo__texto
@@ -141,7 +141,7 @@
             .col-lg-4.d-none.d-lg-block
               img.img-t.img-a(src='@/assets/ilustraciones/img54.svg', alt='')          
           .row.justify-content-center.align-items-center.d-none.d-lg-block
-            .col-lg-12.bg-img-6.p-5
+            .col-lg-12.bg-white.p-5
               .row.justify-content-center.align-items-start
                 .col-lg-8
                   ul.lista-ul--color
@@ -168,7 +168,7 @@
                   img.img-t.img-a(src='@/assets/ilustraciones/img50.svg', alt='')
                   .row.justify-content-center.align-items-center
                     .col-lg-10
-                      a.anexo.mt-4(:href="obtenerLink('/downloads/Entrega_libros_comercio_sede_1.pdf')" target="_blank")
+                      a.anexo.mt-4(:href="obtenerLink('/downloads/actas.pdf')" target="_blank")
                         .anexo__icono
                           img(src="@/assets/template/icono-pdf.svg")
                         .anexo__texto
@@ -199,7 +199,7 @@
               img.img-t.img-a.my-3(src='@/assets/ilustraciones/img50.svg', alt='')
               .row.justify-content-center.align-items-center
                 .col-lg-10
-                  a.anexo.mt-4(:href="obtenerLink('/downloads/Entrega_libros_comercio_sede_1.pdf')" target="_blank")
+                  a.anexo.mt-4(:href="obtenerLink('/downloads/actas.pdf')" target="_blank")
                     .anexo__icono
                       img(src="@/assets/template/icono-pdf.svg")
                     .anexo__texto
@@ -225,7 +225,7 @@
                   img.img-t.img-a(src='@/assets/ilustraciones/img51.svg', alt='')
                   .row.justify-content-center.align-items-center
                     .col-lg-10
-                      a.anexo.mt-4(:href="obtenerLink('/downloads/Formato_acta_de_reunion_y_seguimiento.png')" target="_blank")
+                      a.anexo.mt-4(:href="obtenerLink('/downloads/juntas.pdf')" target="_blank")
                         .anexo__icono
                           img(src="@/assets/template/icono-pdf.svg")
                         .anexo__texto
@@ -238,7 +238,7 @@
               img.img-t.img-a.my-3(src='@/assets/ilustraciones/img51.svg', alt='')
               .row.justify-content-center.align-items-center
                 .col-lg-10
-                  a.anexo.mt-4(:href="obtenerLink('/downloads/Formato_acta_de_reunion_y_seguimiento.png')" target="_blank")
+                  a.anexo.mt-4(:href="obtenerLink('/downloads/juntas.pdf')" target="_blank")
                     .anexo__icono
                       img(src="@/assets/template/icono-pdf.svg")
                     .anexo__texto
@@ -250,15 +250,15 @@
 
         .col-lg-8
           .row.justify-content-center.align-items-start
-            .col-lg-8.d-none.d-lg-block
+            .col-lg-5.d-none.d-lg-block
               img.img-t.img-a(src='@/assets/ilustraciones/img56.svg', alt='')
 
             .col-lg-4.d-none.d-lg-block
               img.img-t.img-a(src='@/assets/ilustraciones/img48.svg', alt='')          
           .row.justify-content-center.align-items-center.d-none.d-lg-block
-            .col-lg-12.bg-img-6.p-5
+            .col-lg-12.bg-img-7.p-5
               .row.justify-content-center.align-items-start
-                .col-lg-6
+                .col-lg-5
                   ul.lista-ul--color
                     li 
                       i.lista-ul__vineta
@@ -283,7 +283,7 @@
                   img.img-t.img-a(src='@/assets/ilustraciones/img52.svg', alt='')
                   .row.justify-content-center.align-items-center
                     .col-lg-10
-                      a.anexo.mt-4(:href="obtenerLink('/downloads/Libros_auxiliares.png')" target="_blank")
+                      a.anexo.mt-4(:href="obtenerLink('/downloads/auxiliares.pdf')" target="_blank")
                         .anexo__icono
                           img(src="@/assets/template/icono-pdf.svg")
                         .anexo__texto
@@ -314,7 +314,7 @@
               img.img-t.img-a.my-3(src='@/assets/ilustraciones/img52.svg', alt='')
               .row.justify-content-center.align-items-center
                 .col-lg-10
-                  a.anexo.mt-4(:href="obtenerLink('/downloads/Libros_auxiliares.png')" target="_blank")
+                  a.anexo.mt-4(:href="obtenerLink('/downloads/auxiliares.pdf')" target="_blank")
                     .anexo__icono
                       img(src="@/assets/template/icono-pdf.svg")
                     .anexo__texto

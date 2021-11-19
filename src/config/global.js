@@ -3,7 +3,7 @@ export default {
     componenteFormativo: 'Reportes y libros contables',
     descripcionCurso:
       'En este componente el aprendiz focaliza su aprendizaje en la verificación de los registros contables, la manera de realizar los ajustes para que la información sea fiable y elaborar los estados financieros. ',
-    imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
+    imagenBannerPrincipal: require('@/assets/curso/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
   menuPrincipal: {

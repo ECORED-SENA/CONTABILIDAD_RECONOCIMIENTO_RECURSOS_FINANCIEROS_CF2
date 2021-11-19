@@ -132,7 +132,7 @@
             p(data-aos="zoom-in") El ejercicio de la contabilidad puede contribuir en la mitigación de los riesgos de contaminación ambiental, generando nuevos modelos de operación, a través de la modificación de sus procesos contables en sí desde el manejo de los recursos que se tienen al alcance. Adicionalmente, en Colombia el Ministerio del Trabajo y protección social, en desarrollo de las normas y convenios internacionales para el Sistema de Gestión de Seguridad y Salud en el Trabajo –SGSST, indica las normas al respecto que se pueden consultar a continuación: 
             .row.justify-content-center.align-items-center
               .col-lg-6
-                a.anexo.mt-4(:href="obtenerLink('/downloads/CF02_ Gestion_ambiental_seguridad_salud_en_el_trabajo.pdf')" target="_blank")
+                a.anexo.mt-4(:href="obtenerLink('/downloads/gestion.pdf')" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-pdf.svg")
                   .anexo__texto
@@ -163,19 +163,19 @@
 
           .row.justify-content-center.align-items-center(numero="3" titulo="Se debe velar por cuidar la postura")
             .col-lg-4
-              img.img-t.my-3(src='@/assets/ilustraciones/img41.svg', alt='')
+              img.img-t.my-3(src='@/assets/ilustraciones/img43.svg', alt='')
             .col-lg-8 
               p Mantener una postura correcta para evitar patologías o problemas de dolencias de espalda, cadera, brazos, cuello o manos. El levantamiento de cosas debe realizarse de la manera correcta, con posturas que no pongan en riesgo la salud física por lesiones. Así mismo, si se utilizan otro tipo de elementos para el desarrollo del trabajo, estos deben ser ajustados a los trabajadores y no al revés.
 
           .row.justify-content-center.align-items-center(numero="4" titulo="Realizar suspensión de actividades o de descansos")
             .col-lg-4
-              img.img-t.my-3(src='@/assets/ilustraciones/img42.svg', alt='')
+              img.img-t.my-3(src='@/assets/ilustraciones/img41.svg', alt='')
             .col-lg-8 
               p Las estadísticas de lesiones y enfermedades laborales indican que muchas de estas se producen por fatigas físicas o cansancio mental, por lo tanto, no controla su entorno y las variables de riesgo. Desarrollar otras actividades a manera de descansos ayuda a mantener la disposición física, y estar en atención frente al contexto del espacio de trabajo. 
 
           .row.justify-content-center.align-items-center(numero="5" titulo="Realizar supervisiones las actividades de los trabajadores")
             .col-lg-4
-              img.img-t.my-3(src='@/assets/ilustraciones/img43.svg', alt='')
+              img.img-t.my-3(src='@/assets/ilustraciones/img42.svg', alt='')
             .col-lg-8 
               p La forma de garantizar el cumplimiento de los protocolos de seguridad y salud para el trabajo, es por medio de supervisión directa o indirecta preferiblemente; lo que pueden realizar los supervisores o por medio de observaciones en cámaras.
 

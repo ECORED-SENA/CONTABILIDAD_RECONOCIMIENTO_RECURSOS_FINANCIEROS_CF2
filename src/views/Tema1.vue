@@ -54,7 +54,7 @@
       .col-lg-10
         p.mt-5(data-aos="zoom-in") Cada vez se demuestra que las empresas u organizaciones que poseen su información contable actualizada, estructurada y verificada en cuanto a su idoneidad y disposición física o electrónica desarrollan más capacidades competitivas y de desarrollo, pues sus directivos y socios pueden tomar decisiones oportunas y estratégicamente importantes, lo que amplía las posibilidades de gestión ante un mundo turbulento de negocios. 
 
-        p.p-color-1.pt-2.px-5.text-center.mt-5.mb-0(data-aos="zoom-in") Para el proceso de verificación, la empresa debe contar con el servicio de un contador público que será el responsable de:   
+        p.p-color-1.pt-2.px-5.py-4.text-center.mt-5.mb-0(data-aos="zoom-in") Para el proceso de verificación, la empresa debe contar con el servicio de un contador público que será el responsable de:   
         
         .titulo-sexto.color-acento-contenido.mt-5(data-aos="zoom-in-down")
           h5 Figura 2.  
@@ -87,69 +87,48 @@
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.1.  Objetivo y procedimiento de verificación
     p(data-aos="zoom-in") El objetivo principal de la verificación contable es poder identificar errores materiales y de operación que puedan afectar los estados financieros del periodo o vigencia de en la que se está trabajando (que corre desde el 1 de enero al 31 de diciembre o lo corrido). 
-    .row.justify-content-center.align-items-end.mt-5          
+    .row.justify-content-center.align-items-center.mt-5.color-text-2          
       .col-lg-3.p-0(data-aos="slide-right")
         img.img-t.img-a(src='@/assets/ilustraciones/img8.svg', alt='')
       .col-lg-9.p-0(data-aos="slide-left")
-        p.mb-0.color-text-2.pe-5.py-2.ps-2 De acuerdo con ello es ideal tener claridad que el trabajo a realizar respecto a los saldos iniciales es obtener evidencia suficiente si se contienen errores que afectan materialmente los estados financieros del período y si se han aplicado las normas y políticas contables o si tal vez han existido cambios en los saldos.
+        p.mb-0.pe-5.py-2.ps-2 De acuerdo con ello es ideal tener claridad que el trabajo a realizar respecto a los saldos iniciales es obtener evidencia suficiente si se contienen errores que afectan materialmente los estados financieros del período y si se han aplicado las normas y políticas contables o si tal vez han existido cambios en los saldos.
 
     .row.justify-content-center.align-items-center.mt-5          
       .col-lg-10
         p(data-aos="zoom-in") Otro aspecto de la verificación consiste en determinar si los saldos iniciales del periodo (o finales del periodo anterior), se han pasado correctamente al periodo vigente por ende el procedimiento que debe adelantarse en este proceso parte de la inspección de los documentos contables y del registro de información en las cuentas contables del negocio:   
     .row.justify-content-center.align-items-center.mt-5          
-      .col-lg-10.d-none.d-lg-block
-        p slider f
-        SlyderA(data-aos="slide-right")
-          .row.row.justify-content-center.align-items-center
-            .col-lg-10.slier-color.px-5.py-4
-              h5.my-2 Inspeccionar saldos
-              p En primera medida se inspeccionan que los saldos a 31 de diciembre del año anterior, frente a saldos iniciales a 1 de enero del año actual en libros oficiales de contabilidad corresponda a lo registrado en el sistema operativo software contable que lleva la empresa.   
-          .row.row.justify-content-center.align-items-center
-            .col-lg-10.slier-color.px-5.py-4
-              h5.my-2 Verificación hechos
-              p Seguidamente se procederá a la revisión, verificación y consecuencia de la información de los hechos económicos registrados y soportados documentalmente para casa una de las cuentas contables. Como, por ejemplo: caja y bancos efectivo y equivalentes de efectivo   
-          .row.row.justify-content-center.align-items-center
-            .col-lg-10.slier-color.px-5.py-4
-              h5.my-2 Revisión movimientos
-              p Se revisa que los movimientos estén soportados, que se cuente con las conciliaciones bancarias de movimientos, esto es que cualquier egreso tenga su debido soporte por conceptos como el pago de una factura, nómina, Los desembolsos por caja menor debidamente soportados, etc.,   
-          .row.row.justify-content-center.align-items-center
-            .col-lg-10.slier-color.px-5.py-4
-              h5.my-2 Cuenta por cobrar
-              p Validar las cuentas por cobrar a clientes, es decir que las ventas pendientes de cobro evidencien la efectiva transacción y el reconocimiento del cliente de recibido el producto, que los conceptos correspondan a los productos registrados en el sistema, que se haya liquidado el IVA pertinente de darse lugar, que no se haya cobrado dos veces, o que estén remisiones de mercancías pendientes de facturar. 
-          .row.row.justify-content-center.align-items-center
-            .col-lg-10.slier-color.px-5.py-4
-              h5.my-2 Validar cuentas
-              p Así mismo, se revisa cada una de las cuentas contables verificando la idoneidad de los soportes a los registros y su correcta contabilización. De otro lado, se verifica el procedimiento que se lleva para el registro de la información con fines que pueda ser optimizado y la información se garantice en fiabilidad y oportunidad mitigando riesgos por omisión.  
-          .row.row.justify-content-center.align-items-center
-            .col-lg-10.slier-color.px-5.py-4
-              h5.my-2 Consolidación estados financieros
-              p Para consolidar los estados financieros de propósito general es indispensable realizar el cierre contable, lo que tiene como finalidad reflejar las cuentas con los saldos en valores correctos, donde en caso de que se presenten diferencias o se identifiquen omisiones se deben realizar las respectivas correcciones y asientos de ajuste.    
-    .row.justify-content-center.align-items-center         
-      .col-lg-10.d-block.d-lg-none
-        .row.row.justify-content-center.align-items-center.mt-3
-          .col-lg-10.slier-color.px-5.py-4
-            h5.my-2 Inspeccionar saldos
-            p En primera medida se inspeccionan que los saldos a 31 de diciembre del año anterior, frente a saldos iniciales a 1 de enero del año actual en libros oficiales de contabilidad corresponda a lo registrado en el sistema operativo software contable que lleva la empresa.   
-        .row.row.justify-content-center.align-items-center.mt-3
-          .col-lg-10.slier-color.px-5.py-4
-            h5.my-2 Verificación hechos
-            p Seguidamente se procederá a la revisión, verificación y consecuencia de la información de los hechos económicos registrados y soportados documentalmente para casa una de las cuentas contables. Como, por ejemplo: caja y bancos efectivo y equivalentes de efectivo   
-        .row.row.justify-content-center.align-items-center.mt-3
-          .col-lg-10.slier-color.px-5.py-4
-            h5.my-2 Revisión movimientos
-            p Se revisa que los movimientos estén soportados, que se cuente con las conciliaciones bancarias de movimientos, esto es que cualquier egreso tenga su debido soporte por conceptos como el pago de una factura, nómina, Los desembolsos por caja menor debidamente soportados, etc.,   
-        .row.row.justify-content-center.align-items-center.mt-3
-          .col-lg-10.slier-color.px-5.py-4
-            h5.my-2 Cuenta por cobrar
-            p Validar las cuentas por cobrar a clientes, es decir que las ventas pendientes de cobro evidencien la efectiva transacción y el reconocimiento del cliente de recibido el producto, que los conceptos correspondan a los productos registrados en el sistema, que se haya liquidado el IVA pertinente de darse lugar, que no se haya cobrado dos veces, o que estén remisiones de mercancías pendientes de facturar. 
-        .row.row.justify-content-center.align-items-center.mt-3
-          .col-lg-10.slier-color.px-5.py-4
-            h5.my-2 Validar cuentas
-            p Así mismo, se revisa cada una de las cuentas contables verificando la idoneidad de los soportes a los registros y su correcta contabilización. De otro lado, se verifica el procedimiento que se lleva para el registro de la información con fines que pueda ser optimizado y la información se garantice en fiabilidad y oportunidad mitigando riesgos por omisión.  
-        .row.row.justify-content-center.align-items-center.mt-3
-          .col-lg-10.slier-color.px-5.py-4
-            h5.my-2 Consolidación estados financieros
-            p Para consolidar los estados financieros de propósito general es indispensable realizar el cierre contable, lo que tiene como finalidad reflejar las cuentas con los saldos en valores correctos, donde en caso de que se presenten diferencias o se identifiquen omisiones se deben realizar las respectivas correcciones y asientos de ajuste.                                                      
+      .col-lg-10
+        SlyderF(data-aos="slide-right")(columnas="col-lg-12 col-xl-12")
+          .tarjeta
+            .row.row.justify-content-center.align-items-center
+              .col-lg-11.slier-color.px-5.py-4
+                h5.my-2 Inspeccionar saldos
+                p En primera medida se inspeccionan que los saldos a 31 de diciembre del año anterior, frente a saldos iniciales a 1 de enero del año actual en libros oficiales de contabilidad corresponda a lo registrado en el sistema operativo software contable que lleva la empresa.
+          .tarjeta                
+            .row.row.justify-content-center.align-items-center
+              .col-lg-10.slier-color.px-5.py-4
+                h5.my-2 Verificación hechos
+                p Seguidamente se procederá a la revisión, verificación y consecuencia de la información de los hechos económicos registrados y soportados documentalmente para casa una de las cuentas contables. Como, por ejemplo: caja y bancos efectivo y equivalentes de efectivo.
+          .tarjeta                   
+            .row.row.justify-content-center.align-items-center
+              .col-lg-10.slier-color.px-5.py-4
+                h5.my-2 Revisión movimientos
+                p Se revisa que los movimientos estén soportados, que se cuente con las conciliaciones bancarias de movimientos, esto es que cualquier egreso tenga su debido soporte por conceptos como el pago de una factura, nómina, Los desembolsos por caja menor debidamente soportados, etc.
+          .tarjeta                   
+            .row.row.justify-content-center.align-items-center
+              .col-lg-10.slier-color.px-5.py-4
+                h5.my-2 Cuenta por cobrar
+                p Validar las cuentas por cobrar a clientes, es decir que las ventas pendientes de cobro evidencien la efectiva transacción y el reconocimiento del cliente de recibido el producto, que los conceptos correspondan a los productos registrados en el sistema, que se haya liquidado el IVA pertinente de darse lugar, que no se haya cobrado dos veces, o que estén remisiones de mercancías pendientes de facturar.
+          .tarjeta                 
+            .row.row.justify-content-center.align-items-center
+              .col-lg-10.slier-color.px-5.py-4
+                h5.my-2 Validar cuentas
+                p Así mismo, se revisa cada una de las cuentas contables verificando la idoneidad de los soportes a los registros y su correcta contabilización. De otro lado, se verifica el procedimiento que se lleva para el registro de la información con fines que pueda ser optimizado y la información se garantice en fiabilidad y oportunidad mitigando riesgos por omisión.
+          .tarjeta                  
+            .row.row.justify-content-center.align-items-center
+              .col-lg-10.slier-color.px-5.py-4
+                h5.my-2 Consolidación estados financieros
+                p Para consolidar los estados financieros de propósito general es indispensable realizar el cierre contable, lo que tiene como finalidad reflejar las cuentas con los saldos en valores correctos, donde en caso de que se presenten diferencias o se identifiquen omisiones se deben realizar las respectivas correcciones y asientos de ajuste.                                
     .row.justify-content-center.align-items-center.mt-5          
       .col-lg-10
         p(data-aos="zoom-in") El cierre contable se realiza una vez desarrollado los procedimientos del ciclo contable, en los cuales los cuales hace el reconocimiento y medición de los hechos económicos, que como se ha mencionado anteriormente, deben presentarse de forma cronológicamente ordenada en el periodo en vigencia, verificando el cumplimiento de las normas contables y financieras, así como de los aspectos tributarios y laborales, velando como se ha indicado que no se hayan dado omisiones u errores.  
@@ -248,12 +227,12 @@
       h5 Figura 4.  
       span Obsolencia tecnológica
     img.img-t.img-a.mt-3(data-aos="zoom-in-down")(src='@/assets/ilustraciones/img13.svg', alt='') 
-    .row.justify-content-center.align-items-center.mt-5           
-      .col-lg-10
+    .row.justify-content-center.align-items-center.t1-color-row-1.p-5           
+      .col-lg-12
         p(data-aos="zoom-in") Siendo esta la razón por la que al final del periodo se debe comparar el valor contable en libros de los activos con el valor real o comercial por medio de estudios de valoraciones que se debe ir llevando, y de darse se aplicará la corrección de su valor considerados en la NIC 36. 
 
-        p(data-aos="zoom-in") La NIC 2 es el marco normativo internacional que se aplica a todos los inventarios; excepto el de inversiones e instrumentos financieros, como los inventarios de activos agrícolas y biológicos. La norma define los criterios de reconocimiento, medición y presentación de los inventarios en realizables o para la venta, en proceso y materiales; permitiendo identificar el conjunto de costos base a los recursos o elementos que los compongan. Así mismo la norma, presenta las bases para determinar y medir el deterioro de este tipo de activos. 
-        img.img-t.img-a.mt-5(data-aos="zoom-in-down")(src='@/assets/ilustraciones/img14.jpg', alt='')
+        p.mb-0(data-aos="zoom-in") La NIC 2 es el marco normativo internacional que se aplica a todos los inventarios; excepto el de inversiones e instrumentos financieros, como los inventarios de activos agrícolas y biológicos. La norma define los criterios de reconocimiento, medición y presentación de los inventarios en realizables o para la venta, en proceso y materiales; permitiendo identificar el conjunto de costos base a los recursos o elementos que los compongan. Así mismo la norma, presenta las bases para determinar y medir el deterioro de este tipo de activos. 
+    img.img-t.img-a.mt-5(data-aos="zoom-in-down")(src='@/assets/ilustraciones/img14.jpg', alt='')
     .row.justify-content-center.align-items-center.mt-5           
       .col-lg-8
         p(data-aos="zoom-in") Ahora se realiza un ejemplo de cálculo mediante la comparación y diferencia entre el valor en libros y valor a vender; es decir al precio en que se pueden obtener ingresos por la venta de dichos activos. Si el valor en libros es mayor al valor de venta realizable se considera que existe deterioro en los activos de inventarios; y se debe registrar la pérdida como un gasto del periodo:  
@@ -891,19 +870,19 @@
     p(data-aos="zoom-in") Otro aspecto a verificar del ejercicio contable del periodo es lo concerniente a las amortizaciones, cuyo concepto consiste en repartir o diferir en cuotas los gastos pagados con anticipación y van siendo consumidos a lo largo del periodo contable, y que cumplen con las definiciones de los activos, porque si son gastos de otro tipo se deben llevar y registrar en el gasto en el estado de resultados. Por lo anterior, para que un activo sea considerado para ser consumido por cuotas debe cumplir con las siguientes características: 
     .row.justify-content-center.align-items-center
       .col-lg-8
-        .tarjeta.tarjeta--azul.px-4.py-0.br-radius.mt-5
+        .tarjeta.tarjeta--azul.slider-color.py-4.px-0.br-radius.mt-5
           SlyderA
             .row.justify-content-center.align-items-center
-              .col-lg-10.p-5
+              .col-lg-10
                 p.mb-0.text-center Proviene de hechos económicos pasados.
             .row.justify-content-center.align-items-center
-              .col-lg-10.p-5
+              .col-lg-10
                 p.mb-0.text-center Genera paulatinamente beneficios económicos o se espera que los de a futuro.
             .row.justify-content-center.align-items-center
-              .col-lg-10.p-5
+              .col-lg-10
                 p.mb-0.text-center Debe ser definido su valor y fiabilidad operativa.
             .row.justify-content-center.align-items-center
-              .col-lg-10.p-5
+              .col-lg-10
                 p.mb-0.text-center Debe ser controlado, pues es susceptible de consumo, agotamiento.
 
     .row.justify-content-center.align-items-center.mt-5      
@@ -1120,17 +1099,17 @@
                       th Haber
                   tbody
                     tr
-                      td Gastos de papelería 
-                      td.text-center $ 40.000
-                      td.text-center         
+                      td.bg-table-w Gastos de papelería 
+                      td.bg-table-w.text-center $ 40.000
+                      td.bg-table-w.text-center         
                     tr
-                      td Efectivo
-                      td.text-center         
-                      td.text-center $ 40.000
+                      td.bg-table-w Efectivo
+                      td.bg-table-w.text-center         
+                      td.bg-table-w.text-center $ 40.000
                     tr
-                      td Total
-                      td.text-center $ 40.000         
-                      td.text-center $ 40.000
+                      td.bg-table-w Total
+                      td.bg-table-w.text-center $ 40.000         
+                      td.bg-table-w.text-center $ 40.000
               p.mt-5 Faltante injustificado, no se evidencia el concepto o soporte por el que falta dinero en la caja, una vez se realizó el arqueo. Por lo anterior, el colaborador es responsable de este suceso y deberá sustentar y/o responder.
 
       .row.justify-content-center.align-items-center.title-color(titulo=" B. Ej.: Faltante caja menor ")
@@ -1150,17 +1129,17 @@
                       th Haber
                   tbody
                     tr
-                      td Efectivo 
-                      td.text-center $ 50.000
-                      td.text-center         
+                      td.bg-table-w Efectivo 
+                      td.bg-table-w.text-center $ 50.000
+                      td.bg-table-w.text-center         
                     tr
-                      td Cuentas por cobrar a trabajadores
-                      td.text-center         
-                      td.text-center $ 50.000
+                      td.bg-table-w Cuentas por cobrar a trabajadores
+                      td.bg-table-w.text-center         
+                      td.bg-table-w.text-center $ 50.000
                     tr
-                      td Total
-                      td.text-center $ 50.000        
-                      td.text-center $ 50.000
+                      td.bg-table-w Total
+                      td.bg-table-w.text-center $ 50.000        
+                      td.bg-table-w.text-center $ 50.000
               p.mt-5 El segundo caso de diferencia en caja obedece cuando el valor de libros es menor al valor del dinero encontrado al momento del arqueo de la caja, en este caso, la diferencia representa un sobrante de dinero, ya que hay más soportes que en sumatoria junto con el dinero efectivo, superan el valor del fondo, lo cual también exige realizar un ajuste contable. Los casos que se presentan son los siguientes:
 
       .row.justify-content-center.align-items-center.title-color(titulo=" C.	Ej.: Excedente caja menor")
@@ -1180,17 +1159,17 @@
                       th Haber
                   tbody
                     tr
-                      td Efectivo 
-                      td.text-center $ 500.000
-                      td.text-center         
+                      td.bg-table-w Efectivo 
+                      td.bg-table-w.text-center $ 500.000
+                      td.bg-table-w.text-center         
                     tr
-                      td Deudores comerciales- clientes 
-                      td.text-center         
-                      td.text-center $ 500.000
+                      td.bg-table-w Deudores comerciales- clientes 
+                      td.bg-table-w.text-center         
+                      td.bg-table-w.text-center $ 500.000
                     tr
-                      td Total
-                      td.text-center $ 500.000         
-                      td.text-center $ 500.000
+                      td.bg-table-w Total
+                      td.bg-table-w.text-center $ 500.000         
+                      td.bg-table-w.text-center $ 500.000
               p.mt-5 Cuando los sobrantes en la caja injustificados son de cuantía menor se aumenta el valor de efectivo y el valor de los ingresos, pero si es un valor mayor y significativo, debe establecerse las posibles causas que originaron el sobrante y se llevara esa partida registrándola como un pasivo, una obligación frente a acreedores varios, mientras se reconoce su procedencia de excedente.
 
     separador(data-aos="slide-left")
