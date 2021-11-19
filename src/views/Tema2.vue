@@ -139,6 +139,12 @@
                     p Anexo. Gestión ambiental, seguridad y salud en el trabajo.                      
           .col-lg-4
             img.img-t.my-3(src='@/assets/ilustraciones/img38.svg', alt='')
+
+    separador(data-aos="slide-left")
+    #t_2_6.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 2.6. Medidas preventivas de seguridad en el trabajo
+    p(data-aos="zoom-in") Desde la implementación del sistema de seguridad y salud en el trabajo por parte de las empresas, en conformidad a lo dispuesto por la normatividad, y aunado al desarrollo de una cultura institucional para la mejora y el bien estar en el trabajo, los trabajadores deben velar por su cumplimiento y generar y mantener los entornos laborales seguros como un ejercicio de corresponsabilidad para con la empresa y su propio beneficio, por ello, se deben tener en cuenta las siguientes recomendaciones: 
+
     .row.justify-content-center.align-items-center
       .col-lg-10
         LineaTiempoD.mt-5.color-primario

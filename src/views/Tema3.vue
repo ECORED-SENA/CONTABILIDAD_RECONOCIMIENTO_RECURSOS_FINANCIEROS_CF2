@@ -1296,8 +1296,184 @@
         .titulo-sexto.color-acento-contenido(data-aos="zoom-in-down")
           h5 Figura 10.  
           span Registros contables por método de cuentas T
-        img.img-a.img-t.mt-3(src='@/assets/ilustraciones/img61.svg', alt='') 
+        img.img-a.img-t.mt-3(data-aos="zoom-in-down")(src='@/assets/ilustraciones/img61.svg', alt='')
+        
+    .row.justify-content-center.align-items-center.mt-5        
+      .col-lg-10        
+        p(data-aos="zoom-in") Una vez realizados los registros, se trasladan los saldos de las cuentas a la hoja de trabajo para elaborar un el balance de comprobación, que permite determinar si se ha respetado la partida doble, el total de los débitos debe ser igual al total de los créditos:
 
+    .row.justify-content-center.align-items-end.mt-5        
+      .col-lg-2.d-none.d-lg-block
+        img.img-a.img-t(data-aos="zoom-in-down")(src='@/assets/ilustraciones/img62.svg', alt='')
+
+      .col-lg-8
+        .titulo-sexto.color-acento-contenido(data-aos="zoom-in-down")
+          h5 Tabla 36.  
+          span Hoja de trabajo de balance de comprobación de doble partida
+        .tabla-a.color-acento-contenido.mt-3(data-aos="zoom-in-down")
+          table.text-center
+            thead
+              tr
+                th Código/ clase
+                th Cuenta
+                th Debe
+                th VaHaberlor
+            tbody
+              tr
+                td.text-center 1
+                td Caja
+                td.text-center $10.000
+                td.text-center
+
+              tr
+                td.text-center 1
+                td Clientes nacionales
+                td.text-center $300.000 
+                td.text-center 
+
+              tr
+                td.text-center 1
+                td Inventario de Mercancías
+                td.text-center $0 
+                td.text-center 
+
+              tr
+                td.text-center 1
+                td Equipo de Oficina
+                td.text-center $100.000 
+                td.text-center 
+
+              tr
+                td.text-center 2
+                td Proveedores nacionales
+                td.text-center 
+                td.text-center $80.000
+
+              tr
+                td.text-center 3
+                td Aportes sociales
+                td.text-center 
+                td.text-center $200.000
+
+              tr
+                td.text-center 4
+                td Ventas
+                td.text-center 
+                td.text-center $300.000
+
+              tr
+                td.text-center 5
+                td Gastos de personal
+                td.text-center $50.000
+                td.text-center 
+
+              tr
+                td.text-center 5
+                td Gastos transporte
+                td.text-center $40.000
+                td.text-center 
+
+              tr
+                td.text-center 6
+                td Costo de ventas
+                td.text-center $80.000
+                td.text-center 
+
+              tr
+                td.text-center 
+                td Sumas iguales
+                td.text-center $580.000
+                td.text-center $580.000
+
+    .row.justify-content-center.align-items-center.mt-5      
+      .col-lg-10.cajon.color-secundario.p-4.mb-4(data-aos="fade-left")
+        p.mb-0(data-aos="zoom-in") Una vez realizada la sumatoria de los registros del libro y obteniendo que se mantiene la igualdad por la doble partida doble, se procede estructurar los estados financieros, donde en primera medida se determina el estado de resultados, y posteriormente el estado de situación financiera.  
+
+    .row.justify-content-center.align-items-center.mt-5        
+      .col-lg-6
+        .titulo-sexto.color-acento-contenido(data-aos="zoom-in-down")
+          h5 Tabla 36.  
+          span Hoja de trabajo de balance de comprobación de doble partida
+        .tabla-a.color-acento-contenido.mt-3(data-aos="zoom-in-down")
+          table
+            thead
+              tr.text-center
+                <th colspan="2" style=" background-color:#FFF3DB"> Niño Zapata Ltda.<br>Estado de Resultados <br>Mes 1 </th> 
+            tbody
+              tr
+                td.bg-table-t3-2 (suma) Ingresos operacionales<br>(ventas de productos)
+                td.bg-table-t3-2.text-center $300.000
+
+              tr
+                td (menos) Costo de ventas
+                td.text-center $80.000
+                          
+              tr
+                td.bg-table-t3-2 Utilidad bruta
+                td.bg-table-t3-2.text-center $220.000 
+
+              tr
+                td (menos) Gastos
+                td.text-center $90.000
+
+              tr
+                td.bg-table-t3-2 Utilidad del ejercicio
+                td.t3-table-4.text-center $130.000
+      .col-lg-4
+        img.img-a.img-t(data-aos="zoom-in-down")(src='@/assets/ilustraciones/img63.svg', alt='') 
+
+    .row.justify-content-center.align-items-center.mt-5        
+      .col-lg-8
+        p.mb-0.py-3.px-5.text-center.p-border-color En el estado de resultados se determina el valor de la utilidad del periodo, dato que se toma y se registra en el balance en las cuentas de patrimonio:
+        
+    .row.justify-content-center.align-items-center.mt-5        
+      .col-lg-8
+        .titulo-sexto.color-acento-contenido(data-aos="zoom-in-down")
+          h5 Tabla 38.  
+          span Estado de situación financiera de la empresa al final del periodo 1
+        .tabla-a.color-acento-botones.mt-3(data-aos="zoom-in-down")
+          table.text-center
+            thead
+              tr.text-center
+                <th colspan="2" style=" background-color:#E85F5B; color: white; border-left: 1px solid #E85F5B; border-right: #E85F5B"> Activo</th> 
+                <th colspan="2" style=" background-color:#E85F5B; color: white; border-left: 1px solid #E85F5B; border-right: #E85F5B"> Pasivo</th>                 
+            tbody
+              tr
+                td Caja        
+                td $10.000       
+                <td rowspan="2"> Proveedores nacionales </td>        
+                <td rowspan="2">  $80.000 </td>  
+              tr
+                td Clientes nacionales                      
+                td $300.000  
+              tr
+                td            
+                td.dot-l                     
+                td.dot-t Total, pasivo
+                td.dot-t $80.000
+              tr
+                <td colspan="2"> Activo no corriente </td>
+                <td colspan="2"> Patrimonio </td>
+              tr
+                td Equipo de oficina                 
+                td $100.000                 
+                td Aportes sociales                 
+                td $200.000 
+              tr
+                td              
+                td.dot-l               
+                td.t3-table-4 Utilidad del ejercicio                 
+                td.t3-table-4 $130.000
+              tr
+                td.dot-t            
+                td.dot-t.dot-l
+                td total, patrimonio
+                td $330.000
+              tr
+                td.t3-color-row-2 Total, activo                 
+                td.t3-color-row-2 $410.000            
+                td.t3-color-row-2 Total, pasivo y patrimonio
+                td.t3-color-row-2 $410.000
 </template>
 
 <script>

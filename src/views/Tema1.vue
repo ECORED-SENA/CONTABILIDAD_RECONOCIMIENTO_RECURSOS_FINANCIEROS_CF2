@@ -98,6 +98,7 @@
         p(data-aos="zoom-in") Otro aspecto de la verificación consiste en determinar si los saldos iniciales del periodo (o finales del periodo anterior), se han pasado correctamente al periodo vigente por ende el procedimiento que debe adelantarse en este proceso parte de la inspección de los documentos contables y del registro de información en las cuentas contables del negocio:   
     .row.justify-content-center.align-items-center.mt-5          
       .col-lg-10.d-none.d-lg-block
+        p slider f
         SlyderA(data-aos="slide-right")
           .row.row.justify-content-center.align-items-center
             .col-lg-10.slier-color.px-5.py-4

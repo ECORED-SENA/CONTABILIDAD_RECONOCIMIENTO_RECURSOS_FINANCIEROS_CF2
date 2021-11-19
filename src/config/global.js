@@ -192,139 +192,125 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
+        'Angulo, U. (2018). Contabilidad financiera, correlacionado con NIIF. Ediciones de la U. Archivo General de la Nación Colombia. (2020). Tabla de retención documental TRD. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://www.archivogeneral.gov.co/sites/default/files/Estructura_Web/3_Transparencia/10.6%20tablas%20de%20retencion/Trdjunio_2016.pdf',
     },
     {
-      referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA:',
+      referencia: 'CTCP. (2018). Norma Internacional de Contabilidad NIC 8. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'http://www.ctcp.gov.co/proyectos/contabilidad-e-informacion-financiera/documentos-organismos-internacionales/compilacion-marcos-tecnicos-de-informacion-financi/1534369239-2962',
     },
     {
       referencia:
-        '<em>Harpersbazaar</em>. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
+        'NICNIIF. (2020). Norma Internacional de Contabilidad 2: Presentación de Estados Financieros. ',
+      link: 'http://nicniif.org/files/NIC%202%20Inventarios.pdf',
     },
     {
       referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'Pérez, J., y Fol, R. (2019). Manual de casos prácticos de ISR. Tax Editores. ',
+    },
+    {
+      referencia:
+        'Martínez, V. (2020). Procedimientos de auditoría para verificar saldos. Auditol. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
-    },
-    {
-      referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA.',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
-    },
-    {
-      referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
-    },
-    {
-      referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'https://www.auditool.org/blog/auditoria-externa/6042-procedimientos-de-auditoria-para-verificar-saldos-iniciales',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Asientos de ajuste',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'registros contables que se realizan al final de un periodo o vigencia contable después de verificar la información del periodo antes del cierre, y proceden a hechos de la empresa que no fueron reconocidos oportunamente, o se realizan para corregir errores por omisión o errores de en el registro en sí.',
     },
     {
-      termino: '<em>Suftware</em>',
+      termino: 'Balance de prueba ajustado',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'listado de los saldos débitos y créditos de las cuentas de los estados financieros, que se prepara después de los asientos de ajuste y antes de los de cierre para corroborar la doble partida entre el débito y el crédito son iguales.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Cuenta',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'denominación técnica para el de registro de información financiera para evidenciar los hechos económicos de la empresa.',
     },
     {
-      termino: '<em>Áectores</em>',
+      termino: 'Cuentas de resultado',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'operación de una empresa en un periodo determinado, se registran a través de estas cuentas que son el grupo que registra los ingresos obtenidos, y todos los gastos que debe incurrir la empresa para operar, y al final obtener un resultado de beneficio o perdida.',
     },
     {
-      termino: 'Moda',
+      termino: 'Debe',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'significa registrar el valor monetario al lado izquierdo representa regularmente un cargo.',
     },
     {
-      termino: 'Diseña',
+      termino: 'Depreciación',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'distribución del costo histórico de las propiedades, planta y equipo en los distintos periodos de vida útil.',
     },
     {
-      termino: 'DIseño',
+      termino: 'Caja y bancos',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'dinero efectivo y líquido que se encuentra en las cuentas de caja, y en las cuentas de ahorro y cuentas corrientes en Bancos, siendo disponibles al momento.',
     },
     {
-      termino: 'Tipología',
+      termino: 'Estado de situación financiera',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'estado de resultado derivado del registro de la información de los libros de diario y mayo, que describe los hechos económicos de activo, pasivo y patrimonio.',
     },
     {
-      termino: 'Bidimensional',
+      termino: 'Estado de resultados',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
+        'estado financiero compuesto por las cuentas de ingresos, gastos y costos que reflejan el resultado del ejercicio.',
     },
     {
-      termino: 'Interés Inferior del menor',
+      termino: 'Haber',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'corresponde al registro al lado derecho regularmente representan abonos.',
     },
     {
-      termino: 'Interseccionalidad',
+      termino: 'Ingresos recibidos por anticipado',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'dinero recibido por la empresa como anticipo de bienes o servicios por prestar o suministrar en el futuro.',
     },
     {
-      termino: 'Interés superior del menor',
+      termino: 'Partida doble',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'igualdad que debe existir entre los registros del debe y en haber en el asiento contable del debe y haber en libros, presentando un equilibrio de sumas iguales.',
+    },
+    {
+      termino: 'Valor residual',
+      significado:
+        'valor estimado que la empresa establece que podría recibir por la venta de un activo no fijo, después de haber deducido los costos estimados de depreciación y/o deterioro, si el activo cubriera la edad de vida útil o al momento de tomar la decisión.',
     },
   ],
   complementario: [
     {
       texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Presidencia de Colombia.  (1993). Decreto 2650 de 1993. Plan Único de cuentas. Superintendencia de sociedades.',
+      tipo: 'PDF',
+      descarga: '/downloads/Decreto_2650_del_29_de_diciembre_de_1993.pdf',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+        'Palacios, M. J. (s.f.). Modelo de sistema de información contable para la gestión ambiental. Universidad de Panamá',
+      tipo: 'PDF',
+      descarga:
+        '/downloads/modelo_de_sistema_contable_para_gestion_ambiental_palacios_copete.pdf',
     },
     {
       texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
+        'Guiza, U. A. (2018). Contabilidad para la toma de decisiones. Correlacionado con NIIF. Ediciones de la U.',
+      tipo: 'Libro',
+      link:
+        'https://books.google.com.co/books?id=JzSjDwAAQBAJ&printsec=frontcover&dq=Contabilidad+financiera,+correlacionado+con+NIIF.&hl=es-419&sa=X&redir_esc=y#v=onepage&q=Contabilidad%20financiera%2C%20correlacionado%20con%20NIIF.&f=false',
     },
     {
-      texto: 'Economía de Rosquilla. (s.f.).',
+      texto:
+        'Senado de la República de Colombia. (2021). Leyes desde 1992 - Vigencia expresa y control de constitucionalidad CODIGO_COMERCIO_PR001. ',
       tipo: 'Página web',
-      descarga: ['/downloads/prueba.pdf', '/downloads/prueba.pdf'],
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
-      tipo: 'Video',
-      link: ['https://www.google.com/', 'https://www.google.com/'],
+      link:
+        'http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio_pr001.html',
     },
   ],
   creditos: {
@@ -340,7 +326,28 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Carlos Fernando Riaño',
+        cargo: 'Experto temático',
+        centro: 'Regional Norte de Santander- CIES TIC',
+      },
+      {
+        nombre: 'Oscar Absalón Guevara',
+        cargo: 'Diseñador instruccional',
+        centro: 'Centro de Gestión Industrial – Regional Distrito Capital',
+      },
+      {
+        nombre: 'Carolina Coca Salazar',
+        cargo: 'Revisora metodológica y pedagógica',
+        centro: 'Regional Distrito Capital-Centro de Diseño y Metrología.',
+      },
+      {
+        nombre: 'José Gabriel Ortiz Abella',
+        cargo: 'Corrector de estilo',
+        centro:
+          'Regional Distrito Capital-Centro de para la Industria de la Comunicación Gráfica',
       },
     ],
     desarrolloProducto: [
@@ -348,43 +355,43 @@ export default {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'Oscar Ivan Uribe Ortiz',
         cargo: 'Diseño web',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Desarrollo Front-End',
+        nombre: 'Edward Leonardo Pico Cabra',
+        cargo: 'Desarrollo front-end',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Producción audiovisual',
+        nombre: 'Andrés Mauricio Santaella Ochoa',
+        cargo: 'Soporte front-end',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Nombre',
         cargo: 'Validación de diseño y contenido',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
     ],
   },
