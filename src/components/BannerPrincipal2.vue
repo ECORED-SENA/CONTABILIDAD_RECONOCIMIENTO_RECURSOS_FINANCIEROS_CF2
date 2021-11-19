@@ -19,7 +19,6 @@
       .d-none.d-lg-block.col-lg-5.px-0.banner-principal__img
         .contenedor-imagenes
           img.banner-img1(:src="globalData.imagenBannerPrincipal")
-          //img.banner-img2(:src="globalData.imagenBannerPrincipal2")
           .imagen_flotante.imagen_flotante_1: img(src="@/assets/curso/flotante-1.svg")
           .imagen_flotante.imagen_flotante_2: img(src="@/assets/curso/flotante-2.svg")
           .imagen_flotante.imagen_flotante_3: img(src="@/assets/curso/flotante-3.svg")
@@ -42,35 +41,6 @@ export default {
 </script>
 
 <style lang="sass">
-// .banner-img1
-//   position: absolute
-//   top 0%
-//   -webkit-backface-visibility: hidden
-//   animation: fade 10s ease-in infinite
-//   animation-direction: alternate
-// @keyframes fade
-//   0%
-//     opacity: 1
-//   33%
-//     opacity: 0
-//   66%
-//     opacity: 1
-//   100%
-//     opacity: 0
-// .banner-img2
-//   -webkit-backface-visibility: hidden
-//   animation: fade2 10s ease-out infinite
-//   animation-direction: alternate
-// @keyframes fade2
-//   0%
-//     opacity: 0
-//   33%
-//     opacity: 1
-//   66%
-//     opacity: 0
-//   100%
-//     opacity: 1
-
 
 .banner-principal__row
   background-size: cover
