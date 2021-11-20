@@ -371,6 +371,7 @@
 
     TabSpecial.color-acento-botones.mt-5
       .py-3.py-md-4(titulo="Análisis" :imagen="images[0]" :numero="numbers[0]")
+
         h5.color-purp(data-aos="zoom-in") Análisis de acuerdo con la normativa. 
 
         .row.justify-content-start.align-items-center.mt-5
