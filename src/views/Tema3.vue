@@ -6,12 +6,14 @@
       .titulo-principal__numero
         span 3
       h1 Archivo y conservación de documentos
-
-    .row.justify-content-center.align-items-center  
+    .row.justify-content-center.align-items-center
+      .col-lg-10    
+        p(data-aos="zoom-in") En Colombia desde el Código de Comercio en el título IV de los libros de comercio, capítulo I Libros y papeles del comerciante, se establece que: 
+    .row.justify-content-center.align-items-center.mt-3  
       .col-lg-10
         .bloque-texto-c.color-acento-contenido.p-4
           i.fas.fa-quote-right
-          h5.my-2.px-3(data-aos="zoom-in") Todo comerciante conformará su contabilidad, libros, registros contables, inventarios y estados financieros en general, a las disposiciones de este Código y demás normas sobre la materia. Dichas normas podrán autorizar el uso de sistemas que, como la microfilmación, faciliten la guarda de su archivo y correspondencia. Asimismo, será permitida la utilización de otros procedimientos de reconocido valor técnico-contable, con el fin de asentar sus operaciones, siempre que facilite el conocimiento y prueba de la historia clara, completa y fidedigna de los asientos individuales y el estado general de los negocios.<br>En los libros se asentarán en orden cronológico las operaciones mercantiles y todas aquellas que puedan influir en el patrimonio del comerciante, haciendo referencia a los comprobantes de contabilidad que las respalden.
+          h5.my-3.px-3(data-aos="zoom-in") Todo comerciante conformará su contabilidad, libros, registros contables, inventarios y estados financieros en general, a las disposiciones de este Código y demás normas sobre la materia. Dichas normas podrán autorizar el uso de sistemas que, como la microfilmación, faciliten la guarda de su archivo y correspondencia. Asimismo, será permitida la utilización de otros procedimientos de reconocido valor técnico-contable, con el fin de asentar sus operaciones, siempre que facilite el conocimiento y prueba de la historia clara, completa y fidedigna de los asientos individuales y el estado general de los negocios.<br><br>En los libros se asentarán en orden cronológico las operaciones mercantiles y todas aquellas que puedan influir en el patrimonio del comerciante, haciendo referencia a los comprobantes de contabilidad que las respalden.
           span - Secretaría del Senado, 2020. Código de Comercio Arts. 48 al 56.
 
     separador(data-aos="slide-left")
@@ -393,8 +395,8 @@
                 th.bg-table-t3-1 Activo corriente
                 th.bg-table-t3-1 Cuenta
                 th.bg-table-t3-1 Naturaleza
-                th.bg-table-t3-1 Saldos mes 1 Valor
-                th.bg-table-t3-1 Saldos mes 2 Valor
+                th.bg-table-t3-1 Saldos mes 1 / Valor
+                th.bg-table-t3-1 Saldos mes 2 / Valor
 
             tbody
               tr
@@ -538,7 +540,7 @@
                 td.bg-table-t3-2.br-t3-table
 
               tr
-                <td rowspan="4" style=""> Propiedad planta y equipó</td>
+                <td rowspan="4" style=""> Propiedad planta y equipo</td>
                 td.br-t3-table  
                 td.br-t3-table    
                 td.br-t3-table
@@ -1222,8 +1224,8 @@
                 td.text-center 4135 
                 td.text-center Comercio al por mayor y menor
                 td.text-center 
-                td.text-center $300.000
-                td.text-center   
+                td.text-center 
+                td.text-center $300.000  
 
               tr
                 td.text-center 413534 
@@ -1289,7 +1291,7 @@
         h5.text-center.text-white.mb-0 Registros de las transacciones en esquema de cuentas T
     .row.justify-content-center.align-items-center   
       .col-lg-10.t3-color-row-2.p-5
-        p(data-aos="zoom-in").mb-0 A manera didáctica, se manejan a nivel de cuenta de 4 dígitos, y permiten ir acumulando la información, facilitando la obtención del saldo. El número al lado izquierdo en las cuentas (débitos), y en la derecha en los créditos, se refiere al número de la transacción o registro en conformidad a los datos suministrados  
+        p(data-aos="zoom-in").mb-0 A manera didáctica, se manejan a nivel de cuenta de 4 dígitos, y permiten ir acumulando la información, facilitando la obtención del saldo. El número al lado izquierdo en las cuentas (débitos), y en la derecha en los créditos, se refiere al número de la transacción o registro en conformidad a los datos suministrados.  
 
     .row.justify-content-center.align-items-center.mt-5        
       .col-lg-10
@@ -1322,68 +1324,68 @@
               tr
                 td.text-center 1
                 td Caja
-                td.text-center $10.000
+                td.text-center $ 10.000
                 td.text-center
 
               tr
                 td.text-center 1
                 td Clientes nacionales
-                td.text-center $300.000 
+                td.text-center $ 300.000 
                 td.text-center 
 
               tr
                 td.text-center 1
                 td Inventario de Mercancías
-                td.text-center $0 
+                td.text-center $ 0 
                 td.text-center 
 
               tr
                 td.text-center 1
                 td Equipo de Oficina
-                td.text-center $100.000 
+                td.text-center $ 100.000 
                 td.text-center 
 
               tr
                 td.text-center 2
                 td Proveedores nacionales
                 td.text-center 
-                td.text-center $80.000
+                td.text-center $ 80.000
 
               tr
                 td.text-center 3
                 td Aportes sociales
                 td.text-center 
-                td.text-center $200.000
+                td.text-center $ 200.000
 
               tr
                 td.text-center 4
                 td Ventas
                 td.text-center 
-                td.text-center $300.000
+                td.text-center $ 300.000
 
               tr
                 td.text-center 5
                 td Gastos de personal
-                td.text-center $50.000
+                td.text-center $ 50.000
                 td.text-center 
 
               tr
                 td.text-center 5
                 td Gastos transporte
-                td.text-center $40.000
+                td.text-center $ 40.000
                 td.text-center 
 
               tr
                 td.text-center 6
                 td Costo de ventas
-                td.text-center $80.000
+                td.text-center $ 80.000
                 td.text-center 
 
               tr
                 td.text-center 
                 td Sumas iguales
-                td.text-center $580.000
-                td.text-center $580.000
+                td.text-center $ 580.000
+                td.text-center $ 580.000
 
     .row.justify-content-center.align-items-center.mt-5      
       .col-lg-10.cajon.color-secundario.p-4.mb-4(data-aos="fade-left")
@@ -1392,8 +1394,8 @@
     .row.justify-content-center.align-items-center.mt-5        
       .col-lg-6
         .titulo-sexto.color-acento-contenido(data-aos="zoom-in-down")
-          h5 Tabla 36.  
-          span Hoja de trabajo de balance de comprobación de doble partida
+          h5 Tabla 37.  
+          span Estado de resultados de Niño Zapata del mes 1
         .tabla-a.color-acento-contenido.mt-3(data-aos="zoom-in-down")
           table
             thead
@@ -1401,11 +1403,11 @@
                 <th colspan="2" style=" background-color:#FFF3DB"> Niño Zapata Ltda.<br>Estado de Resultados <br>Mes 1 </th> 
             tbody
               tr
-                td.bg-table-t3-2 (suma) Ingresos operacionales<br>(ventas de productos)
+                td.bg-table-t3-2 (Suma) Ingresos operacionales<br>(ventas de productos)
                 td.bg-table-t3-2.text-center $300.000
 
               tr
-                td (menos) Costo de ventas
+                td (Menos) Costo de ventas
                 td.text-center $80.000
                           
               tr
@@ -1413,7 +1415,7 @@
                 td.bg-table-t3-2.text-center $220.000 
 
               tr
-                td (menos) Gastos
+                td (Menos) Gastos
                 td.text-center $90.000
 
               tr
@@ -1467,7 +1469,7 @@
               tr
                 td.dot-t            
                 td.dot-t.dot-l
-                td total, patrimonio
+                td Total, patrimonio
                 td $330.000
               tr
                 td.t3-color-row-2 Total, activo                 

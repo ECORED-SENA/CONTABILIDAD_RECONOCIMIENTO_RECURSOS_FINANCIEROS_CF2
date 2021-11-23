@@ -54,7 +54,7 @@
       .col-lg-10
         p.mt-5(data-aos="zoom-in") Cada vez se demuestra que las empresas u organizaciones que poseen su información contable actualizada, estructurada y verificada en cuanto a su idoneidad y disposición física o electrónica desarrollan más capacidades competitivas y de desarrollo, pues sus directivos y socios pueden tomar decisiones oportunas y estratégicamente importantes, lo que amplía las posibilidades de gestión ante un mundo turbulento de negocios. 
 
-        p.p-color-1.pt-2.px-5.py-4.text-center.mt-5.mb-0(data-aos="zoom-in") Para el proceso de verificación, la empresa debe contar con el servicio de un contador público que será el responsable de:   
+        p.p-color-1.pt-2.px-5.py-4.text-center.mt-5.mb-0(data-aos="zoom-in") Para el proceso de verificación, la empresa debe contar con el servicio de un #[b contador público] que será el responsable de:   
         
         .titulo-sexto.color-acento-contenido.mt-5(data-aos="zoom-in-down")
           h5 Figura 2.  
@@ -103,7 +103,7 @@
             .row.row.justify-content-center.align-items-center
               .col-lg-11.slier-color.px-5.py-4
                 h5.my-2 Inspeccionar saldos
-                p En primera medida se inspeccionan que los saldos a 31 de diciembre del año anterior, frente a saldos iniciales a 1 de enero del año actual en libros oficiales de contabilidad corresponda a lo registrado en el sistema operativo software contable que lleva la empresa.
+                p En primera medida se inspeccionan que los saldos a 31 de diciembre del año anterior, frente a saldos iniciales a 1 de enero del año actual en libros oficiales de contabilidad corresponda a lo registrado en el sistema operativo <i>software</i> contable que lleva la empresa.
           .tarjeta                
             .row.row.justify-content-center.align-items-center
               .col-lg-10.slier-color.px-5.py-4
@@ -362,12 +362,14 @@
 
     p(data-aos="zoom-in") De acuerdo con el estándar internacional, la depreciación se debe calcular desde el momento en que entra en uso, teniendo en cuenta el valor inicial en libros, la vida útil del activo y lo establecido en las normas y políticas contables. La determinación de la vida útil de un activo fijo, es el periodo para el cual la empresa estima darle uso en la operación de la empresa.
 
-    .bloque-texto-g-1.color-secundario.p-3.p-sm-4.p-md-5p(data-aos="flip-down").mt-5
+    .bloque-texto-g-1.color-secundario.p-5.p-sm-5.p-md-5p(data-aos="flip-down").mt-5
       .bloque-texto-g-1__img(
         :style="{'background-image': `url(${require('@/assets/ilustraciones/img17.jpg')})`}"
       )
       .bloque-texto-g-1__texto.p-4
-        p.mb-0 #[b Problemática de análisis]<br> La empresa Containers Ltda., adquiere un vehículo para uso de la empresa, en las políticas contables se estableció que la vida útil de los vehículos será de 3 años, teniendo, ya que consideran que deben contar con una flota actualizada de vehículos, esto es que cada 3 años venden y compran un vehículo, lo que define que ese será el periodo de depreciación en la empresa para los vehículos.<br>Ahora validemos el análisis de acuerdo a la normativa, el cálculo y la vida útil:  
+        p.color-purp #[b Problemática de análisis]<br> 
+        p La empresa Containers Ltda., adquiere un vehículo para uso de la empresa, en las políticas contables se estableció que la vida útil de los vehículos será de 3 años, teniendo, ya que consideran que deben contar con una flota actualizada de vehículos, esto es que cada 3 años venden y compran un vehículo, lo que define que ese será el periodo de depreciación en la empresa para los vehículos.<br>
+        p Ahora validemos el análisis de acuerdo a la normativa, el cálculo y la vida útil:  
 
     TabSpecial.color-acento-botones.mt-5
       .py-3.py-md-4(titulo="Análisis" :imagen="images[0]" :numero="numbers[0]")
@@ -498,7 +500,7 @@
         .row.justify-content-center.align-items-center.mt-5       
           .col-lg-10
             h5.color-purp(data-aos="zoom-in") ●  Método de depreciación
-            p(data-aos="fade-right") La depreciación se calcula sobre la sumatoria del precio de adquisición, el impuesto sobre las ventas y costos y gastos para poner en operación y funcionamiento los activos. Existen varios métodos o formas para el cálculo de la depreciación como el de línea recta, depreciación acelerada, depreciación en función al desgaste por unidades producidas, etc. Cualquiera es optativa para la empresa, pero se debe aplicar un solo criterio. Quizás el método más utilizado, equitativo y fácil de utilizar en las empresas es el de cálculo por línea recta el cual consiste en dividir el costo total del activo, entre el número de periodos de la vida útil estimada según cada tipo o conjunto de activos; dicho cálculo en periodos hace que el valor a depreciar será el mismo todos los periodos se expone
+            p(data-aos="fade-right") La depreciación se calcula sobre la sumatoria del precio de adquisición, el impuesto sobre las ventas y costos y gastos para poner en operación y funcionamiento los activos. Existen varios métodos o formas para el cálculo de la depreciación como el de línea recta, depreciación acelerada, depreciación en función al desgaste por unidades producidas, etc. Cualquiera es optativa para la empresa, pero se debe aplicar un solo criterio. Quizás el método más utilizado, equitativo y fácil de utilizar en las empresas es el de cálculo por línea recta el cual consiste en dividir el costo total del activo, entre el número de periodos de la vida útil estimada según cada tipo o conjunto de activos; dicho cálculo en periodos hace que el valor a depreciar será el mismo todos los periodos se expone.
 
             p(data-aos="fade-right") A continuación, a través de dos ejemplos verifiquemos la aplicación de depreciación en línea recta y determinación de deterioro:
             img.img-t.img-a.mt-5(data-aos="zoom-in-down")(src='@/assets/ilustraciones/img22.svg', alt='')
@@ -612,8 +614,8 @@
                         td.text-center $ 235.722
         .row.justify-content-center.align-items-center    
           .col-lg-10
-            p.text-center  Depreciación acumulada corrida a 31 de diciembre de 2020 = $385.005                        
-            h5.color-gray.mt-5(data-aos="zoom-in-left") A.  Ejemplo para cálculo de depreciación en línea recta:
+            p.text-center.mt-4 #[b Depreciación acumulada corrida a 31 de diciembre de 2020 = $385.005]
+            h5.color-gray.mt-5(data-aos="zoom-in-left") B.	Ejemplo para aplicación de depreciación y determinación de deterioro
 
             .row.justify-content-center.align-items-end       
               .col-lg-7
