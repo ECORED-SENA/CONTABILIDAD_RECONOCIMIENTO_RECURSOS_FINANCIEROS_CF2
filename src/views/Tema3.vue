@@ -933,16 +933,16 @@
             tbody
               tr
                 td.text-center.w #[b 1] 
-                td El Sr. Niño aporta $100.000 en efectivo y el Sr. Zapata aporta activos fijos a manera de vitrinas de exhibición para dotar el punto de venta por valor de $100.000.
+                td El Sr. Niño aporta $ 100.000 en efectivo y el Sr. Zapata aporta activos fijos a manera de vitrinas de exhibición para dotar el punto de venta por valor de $ 100.000.
               tr
                 td.text-center.w #[b 2] 
                 td Compran a un proveedor 3 collares por valor de $80.000 a crédito. 
               tr
                 td.text-center.w #[b 3] 
-                td Gastan en transporte público $40.000 (pago efectivo). 
+                td Gastan en transporte público $ 40.000 (pago efectivo). 
               tr
                 td.text-center.w #[b 4] 
-                td Pagan sueldo al vendedor por $50.000 (pago en efectivo).
+                td Pagan sueldo al vendedor por $ 50.000 (pago en efectivo).
               tr
                 td.text-center.w #[b 5] 
                 td Realizan la venta de los 3 collares, por un precio de venta de $100.000 la unidad, los cuales dan a crédito (costo de ventas $80.000). 
@@ -974,13 +974,13 @@
                 td.text-center 1105
                 td.text-center Caja
                 td.text-center 
-                td.text-center $100.000
+                td.text-center $ 100.000
                 td.text-center 
 
               tr
                 td.text-center 110505
                 td.text-center Caja general
-                td.text-center $100.000
+                td.text-center $ 100.000
                 td.text-center 
                 td.text-center 
 
@@ -988,13 +988,13 @@
                 td.text-center 1524
                 td.text-center Equipo de oficina
                 td.text-center 
-                td.text-center $100.000
+                td.text-center $ 100.000
                 td.text-center 
 
               tr
                 td.text-center 152405
                 td.text-center Muebles y enseres
-                td.text-center $100.000
+                td.text-center $ 100.000
                 td.text-center 
                 td.text-center 
 
@@ -1003,12 +1003,12 @@
                 td.text-center Aportes sociales
                 td.text-center 
                 td.text-center 
-                td.text-center $200.000
+                td.text-center $ 200.000
 
               tr
                 td.text-center 311505
                 td.text-center Cuotas o partes de interés social
-                td.text-center $200.000
+                td.text-center $ 200.000
                 td.text-center 
                 td.text-center 
 
@@ -1023,8 +1023,8 @@
                 td.text-center 
                 td.text-center Sumas iguales 
                 td.text-center 
-                td.text-center $200.000 
-                td.text-center $200.000
+                td.text-center $ 200.000 
+                td.text-center $ 200.000
 
               tr
                 <td colspan="5" style=""> Detalle: se registra aportes iniciales de los socios.</td>               
@@ -1053,13 +1053,13 @@
                 td.text-center 1435 
                 td.text-center Mercancías no fabricadas 
                 td.text-center 
-                td.text-center $80.000
+                td.text-center $ 80.000
                 td.text-center   
 
               tr
                 td.text-center 132501 
                 td.text-center Collares
-                td.text-center $80.000
+                td.text-center $ 80.000
                 td.text-center 
                 td.text-center 
 
@@ -1068,12 +1068,12 @@
                 td.text-center Proveedores nacionales
                 td.text-center 
                 td.text-center 
-                td.text-center $80.000 
+                td.text-center $ 80.000 
 
               tr
                 td.text-center 220505 
                 td.text-center Surtijoyas La Conquista
-                td.text-center $80.000 
+                td.text-center $ 80.000 
                 td.text-center 
                 td.text-center 
 
@@ -1081,8 +1081,8 @@
                 td.text-center Sumas iguales 
                 td.text-center 
                 td.text-center 
-                td.text-center $80.000 
-                td.text-center $80.000
+                td.text-center $ 80.000 
+                td.text-center $ 80.000
 
               tr
                 <td colspan="5" style=""> Detalle: se registra compra de mercancía.</td> 
@@ -1110,13 +1110,13 @@
                 td.text-center 5195 
                 td.text-center Gastos diversos
                 td.text-center 
-                td.text-center $40.000
+                td.text-center $ 40.000
                 td.text-center   
 
               tr
                 td.text-center 519545 
                 td.text-center Buses y taxis
-                td.text-center $40.000
+                td.text-center $ 40.000
                 td.text-center 
                 td.text-center 
 
@@ -1125,12 +1125,12 @@
                 td.text-center Caja
                 td.text-center 
                 td.text-center 
-                td.text-center $40.000
+                td.text-center $ 40.000
 
               tr
                 td.text-center 110505 
                 td.text-center Caja general
-                td.text-center $40.000 
+                td.text-center $ 40.000 
                 td.text-center 
                 td.text-center 
 
@@ -1138,8 +1138,8 @@
                 td.text-center Sumas iguales 
                 td.text-center 
                 td.text-center 
-                td.text-center $40.000 
-                td.text-center $40.000
+                td.text-center $ 40.000 
+                td.text-center $ 40.000
 
               tr
                 <td colspan="5" style=""> Detalle: se registra el pago por transporte.</td>
@@ -1168,13 +1168,13 @@
                 td.text-center 5205 
                 td.text-center Gastos de personal 
                 td.text-center 
-                td.text-center $50.000
+                td.text-center $ 50.000
                 td.text-center   
 
               tr
                 td.text-center 520506 
                 td.text-center Sueldos
-                td.text-center $50.000
+                td.text-center $ 50.000
                 td.text-center 
                 td.text-center 
 
@@ -1183,12 +1183,12 @@
                 td.text-center Caja
                 td.text-center 
                 td.text-center 
-                td.text-center $50.000 
+                td.text-center $ 50.000 
 
               tr
                 td.text-center 110505 
                 td.text-center Caja General
-                td.text-center $50.000 
+                td.text-center $ 50.000 
                 td.text-center 
                 td.text-center 
 
@@ -1196,8 +1196,8 @@
                 td.text-center Sumas iguales 
                 td.text-center 
                 td.text-center 
-                td.text-center $80.000 
-                td.text-center $80.000
+                td.text-center $ 80.000 
+                td.text-center $ 80.000
 
               tr
                 <td colspan="5" style=""> Detalle: se registra el pago por sueldos.</td>                                                 
@@ -1225,12 +1225,12 @@
                 td.text-center Comercio al por mayor y menor
                 td.text-center 
                 td.text-center 
-                td.text-center $300.000  
+                td.text-center $ 300.000  
 
               tr
                 td.text-center 413534 
                 td.text-center Artículos de joyería
-                td.text-center $300.000
+                td.text-center $ 300.000
                 td.text-center 
                 td.text-center 
 
@@ -1238,13 +1238,13 @@
                 td.text-center 1305 
                 td.text-center Clientes
                 td.text-center 
-                td.text-center $300.000
+                td.text-center $ 300.000
                 td.text-center 
 
               tr
                 td.text-center 130505 
                 td.text-center Nacionales
-                td.text-center $300.000 
+                td.text-center $ 300.000 
                 td.text-center 
                 td.text-center 
 
@@ -1253,12 +1253,12 @@
                 td.text-center Mercancías no fabricadas
                 td.text-center 
                 td.text-center 
-                td.text-center $80.000
+                td.text-center $ 80.000
 
               tr
                 td.text-center 143501
                 td.text-center Collares
-                td.text-center $80.000
+                td.text-center $ 80.000
                 td.text-center 
                 td.text-center 
 
@@ -1266,13 +1266,13 @@
                 td.text-center 6135
                 td.text-center Costo de ventas
                 td.text-center 
-                td.text-center $80.000
+                td.text-center $ 80.000
                 td.text-center 
 
               tr
                 td.text-center 613534
                 td.text-center Artículos de joyería
-                td.text-center $80.000
+                td.text-center $ 80.000
                 td.text-center 
                 td.text-center 
 
@@ -1280,8 +1280,8 @@
                 td.text-center 
                 td.text-center Sumas iguales
                 td.text-center 
-                td.text-center $380.000
-                td.text-center $380.000                          
+                td.text-center $ 380.000
+                td.text-center $ 380.000                          
 
               tr
                 <td colspan="5" style=""> Detalle: Se registra venta a crédito.</td> 
@@ -1404,23 +1404,23 @@
             tbody
               tr
                 td.bg-table-t3-2 (Suma) Ingresos operacionales<br>(ventas de productos)
-                td.bg-table-t3-2.text-center $300.000
+                td.bg-table-t3-2.text-center $ 300.000
 
               tr
                 td (Menos) Costo de ventas
-                td.text-center $80.000
+                td.text-center $ 80.000
                           
               tr
                 td.bg-table-t3-2 Utilidad bruta
-                td.bg-table-t3-2.text-center $220.000 
+                td.bg-table-t3-2.text-center $ 220.000 
 
               tr
                 td (Menos) Gastos
-                td.text-center $90.000
+                td.text-center $ 90.000
 
               tr
                 td.bg-table-t3-2 Utilidad del ejercicio
-                td.t3-table-4.text-center $130.000
+                td.t3-table-4.text-center $ 130.000
       .col-lg-4
         img.img-a.img-t(data-aos="zoom-in-down")(src='@/assets/ilustraciones/img63.svg', alt='') 
 
@@ -1442,40 +1442,40 @@
             tbody
               tr
                 td Caja        
-                td $10.000       
+                td $ 10.000       
                 <td rowspan="2"> Proveedores nacionales </td>        
-                <td rowspan="2">  $80.000 </td>  
+                <td rowspan="2">  $ 80.000 </td>  
               tr
                 td Clientes nacionales                      
-                td $300.000  
+                td $ 300.000  
               tr
                 td            
                 td.dot-l                     
                 td.dot-t Total, pasivo
-                td.dot-t $80.000
+                td.dot-t $ 80.000
               tr
                 <td colspan="2"> Activo no corriente </td>
                 <td colspan="2"> Patrimonio </td>
               tr
                 td Equipo de oficina                 
-                td $100.000                 
+                td $ 100.000                 
                 td Aportes sociales                 
-                td $200.000 
+                td $ 200.000 
               tr
                 td              
                 td.dot-l               
                 td.t3-table-4 Utilidad del ejercicio                 
-                td.t3-table-4 $130.000
+                td.t3-table-4 $ 130.000
               tr
                 td.dot-t            
                 td.dot-t.dot-l
                 td Total, patrimonio
-                td $330.000
+                td $ 330.000
               tr
                 td.t3-color-row-2 Total, activo                 
-                td.t3-color-row-2 $410.000            
+                td.t3-color-row-2 $ 410.000            
                 td.t3-color-row-2 Total, pasivo y patrimonio
-                td.t3-color-row-2 $410.000
+                td.t3-color-row-2 $ 410.000
 </template>
 
 <script>

@@ -576,16 +576,16 @@
                     tbody
                       tr
                         td Gastos depreciación vehículos fluviales
-                        td.text-center $149.283
+                        td.text-center $ 149.283
                         td.text-center
                       tr
                         td Vehículos fluviales depreciación acumulada 
                         td.text-center
-                        td.text-center $149.283
+                        td.text-center $ 149.283
                       tr
                         td Total 
-                        td.text-center $149.283
-                        td.text-center $149.283    
+                        td.text-center $ 149.283
+                        td.text-center $ 149.283    
 
             .row.justify-content-center.align-items-center.mt-5  
               .col-lg-10
@@ -1032,12 +1032,12 @@
             tbody
               tr
                 td Propiedad, planta y equipo - Maquinaria
-                td.text-center $199.500.000    
+                td.text-center $  199.500.000    
                 td.text-center         
               tr
                 td Pasivo - Acreedores del exterior
                 td.text-center         
-                td.text-center $199.500.000    
+                td.text-center $ 199.500.000    
 
     .row.justify-content-center.align-items-center.mt-5  
       .col-lg-4
@@ -1117,7 +1117,7 @@
 
       .row.justify-content-center.align-items-center.title-color(titulo=" B. Ej.: Faltante caja menor ")
         .col-lg-11
-          p Se realizó un arqueo de caja, y se observa que se presentó un faltante injustificado y sin soporte del gasto por valor de $50.000.
+          p Se realizó un arqueo de caja, y se observa que se presentó un faltante injustificado y sin soporte del gasto por valor de $ 50.000.
           .row.justify-content-center.align-items-center
             .col-lg-10
               .titulo-sexto.color-acento-contenido.mt-5
