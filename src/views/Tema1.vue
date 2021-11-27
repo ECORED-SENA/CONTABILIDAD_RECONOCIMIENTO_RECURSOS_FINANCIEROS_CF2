@@ -219,7 +219,7 @@
 
     figure.mt-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/QeUCPYOmJtQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p(data-aos="zoom-in").mt-5 El deterioro del valor de los activos no corrientes excepto los indicados, depende de variables y factores del entorno, las cuales son externas a la empresa, no pueden ser controlados tal como es el caso de obsolescencia tecnológica, la presencia comercial del activo, la sustitución tecnológica en el mercado, puede que sea nuevo el activo, pero una nueva técnica hace que los activos caigan de valor sustantivamente, entre otros. 
 
