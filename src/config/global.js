@@ -341,7 +341,7 @@ export default {
       {
         nombre: 'Carolina Coca Salazar',
         cargo: 'Revisora metodológica y pedagógica',
-        centro: 'Regional Distrito Capital-Centro de Diseño y Metrología.',
+        centro: 'Regional Distrito Capital-Centro de Diseño y Metrología',
       },
       {
         nombre: 'José Gabriel Ortiz Abella',
