@@ -110,26 +110,14 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.5',
-            titulo: 'Manejo de recursos de residuos',
+            titulo: 'Gestión ambiental, seguridad y salud en el trabajo',
             hash: 't_2_5',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.6',
-            titulo: 'Normas de gestión ambiental en las empresas',
-            hash: 't_2_6',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.7',
-            titulo: 'Seguridad y salud en el trabajo',
-            hash: 't_2_7',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.8',
             titulo: 'Medidas preventivas de seguridad en el trabajo',
-            hash: 't_2_8',
+            hash: 't_2_6',
           },
         ],
       },
@@ -177,7 +165,11 @@ export default {
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
       },
-
+      {
+        icono: 'fas fa-download',
+        titulo: 'Descargar material',
+        download: 'downloads/material.zip',
+      },
       {
         icono: 'far fa-registered',
         titulo: 'Créditos',
@@ -217,7 +209,7 @@ export default {
     {
       termino: 'Asientos de ajuste',
       significado:
-        'registros contables que se realizan al final de un periodo o vigencia contable después de verificar la información del periodo antes del cierre, y proceden a hechos de la empresa que no fueron reconocidos oportunamente, o se realizan para corregir errores por omisión o errores de en el registro en sí.',
+        'registros contables que se realizan al final de un periodo o vigencia contable después de verificar la información del periodo antes del cierre, y proceden a hechos de la empresa que no fueron reconocidos oportunamente, o se realizan para corregir errores por omisión o errores en el registro en sí.',
     },
     {
       termino: 'Balance de prueba ajustado',
@@ -227,7 +219,7 @@ export default {
     {
       termino: 'Cuenta',
       significado:
-        'denominación técnica para el de registro de información financiera para evidenciar los hechos económicos de la empresa.',
+        'denominación técnica para el registro de información financiera para evidenciar los hechos económicos de la empresa.',
     },
     {
       termino: 'Cuentas de resultado',
@@ -438,7 +430,7 @@ export default {
     ],
     gestoresRepositorio: [
       {
-        nombre: 'Milady Tatiana Villamil Castellanos',
+        nombre: 'Daniel Felipe Varón Molina',
         cargo: 'Validación y vinculación en plataforma LMS',
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },

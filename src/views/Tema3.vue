@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="fade-left")
       .titulo-principal__numero
         span 3
-      h1 Archivo y conservación de documentos
+      h1 Libros y reportes: estados financieros
     .row.justify-content-center.align-items-center
       .col-lg-10    
         p(data-aos="zoom-in") En Colombia desde el Código de Comercio en el título IV de los libros de comercio, capítulo I Libros y papeles del comerciante, se establece que: 
@@ -210,7 +210,7 @@
       .row.justify-content-center.align-items-center(numero="4" titulo="Libros de junta directiva o de consejo de administración")
         .col-lg-11
           p Es un libro cronológico que registra los detalles de los temas tratados en las reuniones de los administradores, miembros de la junta directiva y su presidente, el gerente y representante legal, entre los cuales se designa un secretario de reunión y presidente de reunión, quienes deben firmar cada acta que evidencia cada reunión.
-          p Según Ley 1755 de 2001 (Secretaría del Senado, 2020, Art. 47), las actas de reuniones deberán indicar si es se trató de una reunión ordinaria o extraordinaria, la forma y mecanismo de convocatoria a los asistentes, debe llevar explícitamente los temas tratados o lo que se denomina el orden del día, y debe citar los nombres completos de los asistentes; de haberse tomado decisiones, se debe indicar la configuración de los votos emitidos en cada caso para la aprobación de los temas.  
+          p Según Ley 1755 de 2001 (Secretaría del Senado, 2020, Art. 47), las actas de reuniones deberán indicar si es trató de una reunión ordinaria o extraordinaria, la forma y mecanismo de convocatoria a los asistentes, debe llevar explícitamente los temas tratados o lo que se denomina el orden del día, y debe citar los nombres completos de los asistentes; de haberse tomado decisiones, se debe indicar la configuración de los votos emitidos en cada caso para la aprobación de los temas.  
 
           .row.justify-content-center.align-items-start.mt-5
             .col-lg-8.d-none.d-lg-block
@@ -345,16 +345,14 @@
         .h4.mb-0.text-center Libro mayor
       .tarjeta.color-secundario.p-3(x="90.5%" y="18%" numero="+")
         .h4.mb-0.text-center Reportes estados financieros
-
       .tarjeta.color-secundario.p-3(x="9.5%" y="38%" numero="+")
         .h4.mb-0.text-center Documentos fuente
       .tarjeta.color-secundario.p-3(x="24.5%" y="33%" numero="+")
         .h4.mb-0.text-center Comprobantes
-
       .tarjeta.color-secundario.p-3(x="32.5%" y="70.8%" numero="+")
         .h4.mb-0.text-center Libros auxiliares  
 
-    p(data-aos="zoom-in").mt-5 De conformidad con los conceptos estimados desde las Normas Internacionales de Información Financiera -NIIF, los estados financieros de propósito general, sirven para resumir y presentar de una manera de manera ordenada y estructurada la información concerniente a la situación financiera (activos, pasivos, patrimonio) de la empresa al final del periodo para el que se preparó la información, así como el beneficio económico o estado de utilidad o resultados de la empresa (ingresos menos gastos), como de los flujos de efectivo de la entidad; información que será útil para los interesados, con fin de analizar las actuaciones y operaciones, el cumplimiento de las perspectivas de entrada y salida de dinero, y facilitar la toma de nuevas decisiones frente a los recursos que posee la empresa a ese momento de corte. 
+    p(data-aos="zoom-in").mt-5 De conformidad con los conceptos estimados desde las Normas Internacionales de Información Financiera -NIIF, los estados financieros de propósito general, sirven para resumir y presentar de una manera ordenada y estructurada la información concerniente a la situación financiera (activos, pasivos, patrimonio) de la empresa al final del periodo para el que se preparó la información, así como el beneficio económico o estado de utilidad o resultados de la empresa (ingresos menos gastos), como de los flujos de efectivo de la entidad; información que será útil para los interesados, con fin de analizar las actuaciones y operaciones, el cumplimiento de las perspectivas de entrada y salida de dinero, y facilitar la toma de nuevas decisiones frente a los recursos que posee la empresa a ese momento de corte. 
 
     .row.mt-5
       .col-lg-4
@@ -1196,8 +1194,8 @@
                 td.text-center Sumas iguales 
                 td.text-center 
                 td.text-center 
-                td.text-center $ 80.000 
-                td.text-center $ 80.000
+                td.text-center $ 50.000 
+                td.text-center $ 50.000
 
               tr
                 <td colspan="5" style=""> Detalle: se registra el pago por sueldos.</td>                                                 
@@ -1302,7 +1300,7 @@
         
     .row.justify-content-center.align-items-center.mt-5        
       .col-lg-10        
-        p(data-aos="zoom-in") Una vez realizados los registros, se trasladan los saldos de las cuentas a la hoja de trabajo para elaborar un el balance de comprobación, que permite determinar si se ha respetado la partida doble, el total de los débitos debe ser igual al total de los créditos:
+        p(data-aos="zoom-in") Una vez realizados los registros, se trasladan los saldos de las cuentas a la hoja de trabajo para elaborar un balance de comprobación, que permite determinar si se ha respetado la partida doble, el total de los débitos debe ser igual al total de los créditos:
 
     .row.justify-content-center.align-items-end.mt-5        
       .col-lg-2.d-none.d-lg-block

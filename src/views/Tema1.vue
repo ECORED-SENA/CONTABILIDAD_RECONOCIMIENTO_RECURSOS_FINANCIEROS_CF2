@@ -70,7 +70,7 @@
 
               li(data-aos="zoom-in-right") 
                 i.lista-ul__vineta
-                | Resumirá los estados financieros, donde de su ejercicio de contador en la verificación. 
+                | Resumirá los estados financieros, donde dé su ejercicio de contador en la verificación. 
 
               li(data-aos="zoom-in-left") 
                 i.lista-ul__vineta
@@ -108,12 +108,12 @@
             .row.row.justify-content-center.align-items-center
               .col-lg-10.slier-color.px-5.py-4
                 h5.my-2 Verificación hechos
-                p Seguidamente se procederá a la revisión, verificación y consecuencia de la información de los hechos económicos registrados y soportados documentalmente para casa una de las cuentas contables. Como, por ejemplo: caja y bancos efectivo y equivalentes de efectivo.
+                p Seguidamente se procederá a la revisión, verificación y consecuencia de la información de los hechos económicos registrados y soportados documentalmente para cada una de las cuentas contables. Como, por ejemplo: caja y bancos efectivo y equivalentes de efectivo.
           .tarjeta                   
             .row.row.justify-content-center.align-items-center
               .col-lg-10.slier-color.px-5.py-4
                 h5.my-2 Revisión movimientos
-                p Se revisa que los movimientos estén soportados, que se cuente con las conciliaciones bancarias de movimientos, esto es que cualquier egreso tenga su debido soporte por conceptos como el pago de una factura, nómina, Los desembolsos por caja menor debidamente soportados, etc.
+                p Se revisa que los movimientos estén soportados, que se cuente con las conciliaciones bancarias de movimientos, esto es que cualquier egreso tenga su debido soporte por conceptos como el pago de una factura, nómina, los desembolsos por caja menor debidamente soportados, etc.
           .tarjeta                   
             .row.row.justify-content-center.align-items-center
               .col-lg-10.slier-color.px-5.py-4
@@ -131,7 +131,7 @@
                 p Para consolidar los estados financieros de propósito general es indispensable realizar el cierre contable, lo que tiene como finalidad reflejar las cuentas con los saldos en valores correctos, donde en caso de que se presenten diferencias o se identifiquen omisiones se deben realizar las respectivas correcciones y asientos de ajuste.                                
     .row.justify-content-center.align-items-center.mt-5          
       .col-lg-10
-        p(data-aos="zoom-in") El cierre contable se realiza una vez desarrollado los procedimientos del ciclo contable, en los cuales los cuales hace el reconocimiento y medición de los hechos económicos, que como se ha mencionado anteriormente, deben presentarse de forma cronológicamente ordenada en el periodo en vigencia, verificando el cumplimiento de las normas contables y financieras, así como de los aspectos tributarios y laborales, velando como se ha indicado que no se hayan dado omisiones u errores.  
+        p(data-aos="zoom-in") El cierre contable se realiza una vez desarrollado los procedimientos del ciclo contable, en los cuales hace el reconocimiento y medición de los hechos económicos, que como se ha mencionado anteriormente, deben presentarse de forma cronológicamente ordenada en el periodo en vigencia, verificando el cumplimiento de las normas contables y financieras, así como de los aspectos tributarios y laborales, velando como se ha indicado que no se hayan dado omisiones u errores.  
 
     .row.justify-content-center.align-items-center.mt-5          
       .col-lg-8(data-aos="flip-down")        
@@ -190,7 +190,7 @@
               li 
                 .lista-ol--cuadro__vineta
                   span 6
-                | fngresos recibidos por anticipado.
+                | Ingresos recibidos por anticipado.
               li 
                 .lista-ol--cuadro__vineta
                   span 7
@@ -358,7 +358,7 @@
 
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.4.  Depreciaciones
-    p(data-aos="zoom-in") Los desgastes que sufren los activos fijos por su uso en la operación de la empresa se denominan depreciación, este y se debe calcular y reconocer como un gasto al débito, lo que se lleva en el estado de resultados del periodo, afectando negativamente la generación de utilidades de dicho periodo, así mismo, se debe llevar al activo como un menor valor en el crédito o haber, lo que disminuyendo el valor de los activos.
+    p(data-aos="zoom-in") Los desgastes que sufren los activos fijos por su uso en la operación de la empresa se denominan depreciación, este se debe calcular y reconocer como un gasto al débito, lo que se lleva en el estado de resultados del periodo, afectando negativamente la generación de utilidades de dicho periodo, así mismo, se debe llevar al activo como un menor valor en el crédito o haber, lo que disminuye el valor de los activos.
 
     p(data-aos="zoom-in") De acuerdo con el estándar internacional, la depreciación se debe calcular desde el momento en que entra en uso, teniendo en cuenta el valor inicial en libros, la vida útil del activo y lo establecido en las normas y políticas contables. La determinación de la vida útil de un activo fijo, es el periodo para el cual la empresa estima darle uso en la operación de la empresa.
 
@@ -378,7 +378,7 @@
 
         .row.justify-content-start.align-items-center.mt-5
           .col-lg-8.text-sup(data-aos="fade-right")
-            p Se debe tener en cuenta al igual el desgaste del activo fijo y su obsolescencia tecno-mecánica como comercial, Si por efectos de modificar esta política en la empresa para la sustitución de los activos, esos cambios se deberán reflejar como un cambio con una nota contable, en conformidad a lo establecido en la NIC 8 “Políticas contables, cambios en las estimaciones contables y errores”.
+            p Se debe tener en cuenta al igual el desgaste del activo fijo y su obsolescencia tecno-mecánica como comercial, si por efectos de modificar esta política en la empresa para la sustitución de los activos, esos cambios se deberán reflejar como un cambio con una nota contable, en conformidad a lo establecido en la NIC 8 “Políticas contables, cambios en las estimaciones contables y errores”.
 
             p La NIC 16, en el párrafo 6 indica: “El valor residual de un activo es el valor estimado que la empresa puede obtener de un activo por su venta o enajenación, después de haber deducido todos los costos y gastos para la venta, y si tuviera funcionalidad y la edad, y condiciones funcionales para operación como un recurso útil, al final de su vida útil definida” (NIC 16, p. 2). El “valor residual”, es un concepto utilizado comúnmente en cálculo de la depreciación de activos fijos, pues es el valor referencial de base para la venta de dichos activos, esperando que al momento de venderlos sea superior generando ingresos adicionales que no son de la operación, pero que favorecen las utilidades de la empresa.
         .row.justify-content-end.align-items-center.mt-4           
@@ -1203,7 +1203,7 @@
         img.img-a.img-t.my-3(src='@/assets/ilustraciones/b.svg', alt='')
       .col-lg-9
         p.color-purp(data-aos="zoom-in") #[b Otros valores no registrados.] 
-        p(data-aos="fade-left") Dentro de estos hallazgos que se presentan en la conciliación bancaria se encuentran los gastos por concepto de chequeras, comisiones bancarias cobradas, comisiones cobradas por cheques devueltos, intereses de sobregiros, intereses por préstamos y otros cobros realizados por las entidades financieras; Los ajustes en estos casos disminuyen la cuenta de bancos en el crédito (haber) y aumentan la cuenta al débito (debe), para los cual se usan las notas contables, relacionada con el concepto que se está cancelando. Ahora, se revisarán algunos ejemplos:
+        p(data-aos="fade-left") Dentro de estos hallazgos que se presentan en la conciliación bancaria se encuentran los gastos por concepto de chequeras, comisiones bancarias cobradas, comisiones cobradas por cheques devueltos, intereses de sobregiros, intereses por préstamos y otros cobros realizados por las entidades financieras; los ajustes en estos casos disminuyen la cuenta de bancos en el crédito (haber) y aumentan la cuenta al débito (debe), para los cual se usan las notas contables, relacionada con el concepto que se está cancelando. Ahora, se revisarán algunos ejemplos:
 
         p.color-purp(data-aos="fade-right").color-gray.mt-5 #[b 1)   Ej.: Registro por compra chequera]
         p(data-aos="zoom-in") La empresa Containers Ltda., no registra la compra de chequera por valor de $180.000, más IVA del 19%, la cual se encuentra debidamente registrada en el extracto bancario emitido por la entidad financiera, y es con la que opera la empresa. 
@@ -1385,15 +1385,15 @@
 
         .row.justify-content-center.align-items-center.mt-5      
           .col-lg-12.cajon.color-acento-botones.p-4(data-aos="fade-left")
-            p.mb-0(data-aos="zoom-in") Como se observa, en este caso el error es de digitación por parte de quien realizó el registro contable, ya que intercambio los números iniciales, sin embargo, el pago si quedó bien realizado y el proveedor recibió su pago completo, sino se hubiera considerado un abono, y este lo hubiera reportado, y el registro hubiese quedado bien, con el proveedor indispuesto por incumplimiento en el pago total, lo que también hay que evitar.
+            p.mb-0(data-aos="zoom-in") Como se observa, en este caso el error es de digitación por parte de quien realizó el registro contable, ya que intercambió los números iniciales, sin embargo, el pago si quedó bien realizado y el proveedor recibió su pago completo, sino se hubiera considerado un abono, y este lo hubiera reportado, y el registro hubiese quedado bien, con el proveedor indispuesto por incumplimiento en el pago total, lo que también hay que evitar.
 
-        p(data-aos="zoom-in").mt-5 En este caso se debe realizar el ajuste por la diferencia en por medio de una nota contable, para que concuerde con el movimiento efectivo en la cuenta bancaria y su extracto.                      
+        p(data-aos="zoom-in").mt-5 En este caso se debe realizar el ajuste por la diferencia por medio de una nota contable, para que concuerde con el movimiento efectivo en la cuenta bancaria y su extracto.                      
 
         .row.justify-content-center.align-items-end
           .col-lg-10
             .titulo-sexto.color-acento-contenido.mt-5
               h5 Tabla 27.  
-              span Ajuste de asiento de por menor valor registrado en un pago a proveedor en transferencia bancaria
+              span Ajuste de asiento de menor valor registrado en un pago a proveedor en transferencia bancaria
             .tabla-a.color-acento-contenido.mt-3
               table
                 thead

@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="fade-left")
       .titulo-principal__numero
         span 2
-      h1 Archivo y conservación de documentos
+      h1 Conservación de documentos y archivo
     p(data-aos="zoom-in") En las empresas el ejercicio operativo de su funcionamiento compila innumerables documentos internos y externos relacionados con los hechos económicos, a aparte de los demás documentos propios de la administración y gestión empresarial, donde la contabilidad es una de las funciones que más soporta su ejercicio en estos documentos, con el fin de construir la trazabilidad de la historia económica de los hechos de operación de la empresa desde el punto de vista legal, y de gestión, facilitando la toma de decisiones que repercutirán en el resto de las áreas funcionales en el presente y futuro inmediato, esto implica que la información podrá ser procesada y utilizada diariamente.
 
     .row.justify-content-center.align-items-center.mt-5  
@@ -86,9 +86,9 @@
             :style="{'background-image': `url(${require('@/assets/ilustraciones/img36.jpg')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Este ordenamiento documental, es un proceso que consiste en disponer los documentos físicamente, en sentido temporal de ocurrencia y que debe ser estricto y riguroso, en sí es ordenar los documentos eligiendo los van primero en un día, y luego definir qué documentos los van en segunda instancia, y así sucesivamente, definiendo las cantidades de agrupaciones en función del mismo tiempo, es decir por meses, trimestres, semestres, etc.
+            p.mb-0 Este ordenamiento documental, es un proceso que consiste en disponer los documentos físicamente, en sentido temporal de ocurrencia y que debe ser estricto y riguroso, en sí es ordenar los documentos eligiendo los que van primero en un día, y luego definir qué documentos los van en segunda instancia, y así sucesivamente, definiendo las cantidades de agrupaciones en función del mismo tiempo, es decir por meses, trimestres, semestres, etc.
 
-        p(data-aos="zoom-in").mt-5 Así mismo, es importante definir en la organización documental la temática, por ejemplo, ventas y facturación, donde irán en un tipo de expediente independiente, con la compilación cronológica de las facturas, pero a su vez puede ser por subtemas, ventas en algún ponto en especial o local comercial, esto se denomina series y subseries de documentos por temas, otro ejemplo pueden ser las órdenes de pago, etc. 
+        p(data-aos="zoom-in").mt-5 Así mismo, es importante definir en la organización documental la temática, por ejemplo, ventas y facturación, donde irán en un tipo de expediente independiente, con la compilación cronológica de las facturas, pero a su vez puede ser por subtemas, ventas en algún punto en especial o local comercial, esto se denomina series y subseries de documentos por temas, otro ejemplo pueden ser las órdenes de pago, etc. 
 
         .row.justify-content-between.align-items-center.t2-bg-color-2.mt-5.py-3.px-4
           .col.mb-3.mb-sm-0
@@ -143,7 +143,7 @@
     separador(data-aos="slide-left")
     #t_2_6.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.6. Medidas preventivas de seguridad en el trabajo
-    p(data-aos="zoom-in") Desde la implementación del sistema de seguridad y salud en el trabajo por parte de las empresas, en conformidad a lo dispuesto por la normatividad, y aunado al desarrollo de una cultura institucional para la mejora y el bien estar en el trabajo, los trabajadores deben velar por su cumplimiento y generar y mantener los entornos laborales seguros como un ejercicio de corresponsabilidad para con la empresa y su propio beneficio, por ello, se deben tener en cuenta las siguientes recomendaciones: 
+    p(data-aos="zoom-in") Desde la implementación del sistema de seguridad y salud en el trabajo por parte de las empresas, en conformidad a lo dispuesto por la normatividad, y aunado al desarrollo de una cultura institucional para la mejora y el bienestar en el trabajo, los trabajadores deben velar por su cumplimiento y generar y mantener los entornos laborales seguros como un ejercicio de corresponsabilidad para con la empresa y su propio beneficio, por ello, se deben tener en cuenta las siguientes recomendaciones: 
 
     .row.justify-content-center.align-items-center
       .col-lg-10
@@ -173,7 +173,7 @@
             .col-lg-8 
               p Las estadísticas de lesiones y enfermedades laborales indican que muchas de estas se producen por fatigas físicas o cansancio mental, por lo tanto, no controla su entorno y las variables de riesgo. Desarrollar otras actividades a manera de descansos ayuda a mantener la disposición física, y estar en atención frente al contexto del espacio de trabajo. 
 
-          .row.justify-content-center.align-items-center(numero="5" titulo="Realizar supervisiones las actividades de los trabajadores")
+          .row.justify-content-center.align-items-center(numero="5" titulo="Realizar supervisiones a las actividades de los trabajadores")
             .col-lg-4
               img.img-t.my-3(src='@/assets/ilustraciones/img42.svg', alt='')
             .col-lg-8 
