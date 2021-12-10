@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="SENA - Actividad Did&amp;#225;ctica_CF2" />
+              <option name="title_text" value="SENA - Actividad Did&amp;#225;ctica" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1180,9 +1180,39 @@
       <string id="terms">Condiciones</string>
       <string id="search_in">Buscar en:</string>
       <string id="send_an_email">Enviar correo electrónico</string>
+      <string id="progress_hour">hora</string>
+      <string id="progress_hours">horas</string>
+      <string id="progress_minute">minuto</string>
+      <string id="progress_minutes">minutos</string>
+      <string id="progress_second">segundo</string>
+      <string id="progress_seconds">segundos</string>
       <string id="transcript_chk">Notas</string>
       <string id="slide_text_chk">Texto Diapositiva</string>
-      <string id="three_image_viewed">vistos</string>
+      <string id="three_image_visited">visitado</string>
+      <string id="three_image_audio">audio</string>
+      <string id="three_image_interaction_prev">anterior</string>
+      <string id="three_image_interaction_next">siguiente</string>
+      <string id="three_image_camera_right">cámara movida a la derecha</string>
+      <string id="three_image_camera_left">cámara movida a la izquierda</string>
+      <string id="three_image_camera_down">cámara movida hacia abajo</string>
+      <string id="three_image_camera_up">cámara movida hacia arriba</string>
+      <string id="three_image_label">etiqueta</string>
+      <string id="three_image_interaction">interacción de la imagen de 360 grados</string>
+      <string id="three_image_marker">marcador</string>
+      <string id="three_image_interaction_guided">modo de tour guiado</string>
+      <string id="three_image_interaction_free">modo de exploración libre</string>
+      <string id="three_image_interaction_step">paso</string>
+      <string id="three_image_pause_audio">pausar audio</string>
+      <string id="three_image_pause_video">pausar video</string>
+      <string id="three_image_progress_audio">progreso</string>
+      <string id="three_image_progress_video">progreso</string>
+      <string id="three_image_hotspot">punto caliente</string>
+      <string id="three_image_play_audio">reproducir audio</string>
+      <string id="three_image_play_video">reproducir video</string>
+      <string id="three_image_video">video</string>
+      <string id="three_image_view_image">ver imagen</string>
+      <string id="three_image_video_volume">volumen del video</string>
+      <string id="three_image_instructions">Utiliza las teclas W, A, S y D para moverte por la imagen de 360 grados. Presiona la tecla TAB para saltar a los marcadores interactivos y los puntos calientes.</string>
       <string id="three_image_item">ítem</string>
       <string id="three_image_items">ítems</string>
       <string id="three_image_of">de</string>
@@ -1241,14 +1271,14 @@
         <slidelink slideid="_player.6iPYYXYye9N" displaytext="Escena sin título" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6iPYYXYye9N.60B7h4FKhhU" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.6iPYYXYye9N.6EdoTcI4Roc" displaytext="El 25 de octubre de 2021, se realiza el arqueo de caja en la empresa XYZ, donde se obtiene un hallazgo de un por valor de $220.000 por compras de un tóner para impresora, cuando se revisan los libros se identifica que el registro de la factura se encuentra por $200.000. Por lo tanto, se realiza el ajuste teniendo en cuenta la diferencia, la cual asciende a:" expand="false" type="slide" />
+            <slidelink slideid="_player.6iPYYXYye9N.6EdoTcI4Roc" displaytext="El 25 de octubre de 2021, se realiza el arqueo de caja en la empresa XYZ, donde se obtiene un hallazgo por valor de $220.000 por compras de un tóner para impresora, cuando se revisan los libros se identifica que el registro de la factura se encuentra por $200.000. Por lo tanto, se realiza el ajuste teniendo en cuenta la diferencia, la cual asciende a:" expand="false" type="slide" />
             <slidelink slideid="_player.6iPYYXYye9N.6JCd936xCU3" displaytext="Repartir o diferir en cuotas los activos pagados con anticipación en la medida en que se consumen es lo que se denomina:" expand="false" type="slide" />
             <slidelink slideid="_player.6iPYYXYye9N.5cAgpS7g9Zf" displaytext="¿El estado de situación financiera involucra las cuentas de?" expand="false" type="slide" />
             <slidelink slideid="_player.6iPYYXYye9N.5s5rZ8M3H2p" displaytext="¿La deuda que tiene un supermercado con la empresa, al que ésta le vende diversos productos para su propia marca, representa?" expand="false" type="slide" />
-            <slidelink slideid="_player.6iPYYXYye9N.6IxZQldeXzU" displaytext="El camión en que se realiza la entrega de pedidos y que vende la empresa, se adquirió en junio 30 de 2020, en un concesionario automotor, por valor de 80 millones de pesos según factura, sin incluir el IVA. ¿El monto por depreciación en línea recta al cierre del año fue de?" expand="false" type="slide" />
+            <slidelink slideid="_player.6iPYYXYye9N.6IxZQldeXzU" displaytext="El camión que realiza la entrega de pedidos y que vende la empresa, se adquirió en junio 30 de 2020, en un concesionario automotor, por valor de 80 millones de pesos según factura, sin incluir el IVA. ¿El monto por depreciación en línea recta al cierre del año fue de?" expand="false" type="slide" />
             <slidelink slideid="_player.6iPYYXYye9N.6DKA1uRxKH8" displaytext="Seleccione verdadero o falso a las siguientes preguntas según corresponda:&#xA;La posibilidad de llevar un sistema de gestión documental digital, hace que no se tenga la necesidad de contar con archivos físicos ni manejo de papel, es solo cuestión de registrarse." expand="false" type="slide" />
             <slidelink slideid="_player.6iPYYXYye9N.6qEUrR54a1s" displaytext="Si una empresa es altamente cautelosa en el proceso de registro de la información de los hechos económicos, lo que hace que para esta operación siempre cuente con los soportes y documentos base, no requiere de hacer verificaciones ni ajustes, ya que las hace al momento del registro, por tanto, no encontrara información no causada en su contabilidad." expand="false" type="slide" />
-            <slidelink slideid="_player.6iPYYXYye9N.6N4OjIIQVLN" displaytext="En una empresa que lleva un sistema de gestión documental digital, no requiere de llegar Tablas de retención documental, ya que toda la información y documentos están en el sistema, no tiene que retener archivos físicos." expand="false" type="slide" />
+            <slidelink slideid="_player.6iPYYXYye9N.6N4OjIIQVLN" displaytext="En una empresa que lleva un sistema de gestión documental digital, no requiere de llevar Tablas de retención documental, ya que toda la información y documentos están en el sistema, no tiene que retener archivos físicos." expand="false" type="slide" />
             <slidelink slideid="_player.6iPYYXYye9N.6fGhTqr56vS" displaytext="Los ajustes contables obedecen meramente a errores humanos en el registro de la información de los hechos económicos." expand="false" type="slide" />
             <slidelink slideid="_player.6iPYYXYye9N.5mFmRlkg92J" displaytext="El balance de prueba consiste en sumar todos los débitos y créditos del libro mayor con el fin de identificar sumas iguales en Debe y en Haber, confirmando la doble partida." expand="false" type="slide" />
             <slidelink slideid="_player.6iPYYXYye9N.60oO6Hqs9Ah" displaytext="La contabilidad es una disciplina profesional, que demanda bajos niveles de riesgos operativos, y por tanto genera bajos índices de impacto ambiental." expand="false" type="slide" />
