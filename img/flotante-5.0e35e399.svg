@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28.076" height="28.077" viewBox="0 0 28.076 28.077">
+  <g id="Grupo_88191" data-name="Grupo 88191" transform="translate(11487.132 11938.172)">
+    <g id="Grupo_87653" data-name="Grupo 87653" transform="translate(-12154.041 -13491.024)">
+      <path id="Trazado_152558" data-name="Trazado 152558" d="M682.872,1574.927H667.23a6.216,6.216,0,0,1-6.216-6.216h0v-15.642a6.216,6.216,0,0,1,6.216-6.216h15.642a6.216,6.216,0,0,1,6.218,6.214v15.647a6.216,6.216,0,0,1-6.216,6.216h0" transform="translate(5.896 6)" fill="#e85f5b"/>
+      <path id="Trazado_152559" data-name="Trazado 152559" d="M673.721,1565.954c0-.982.3-1.462,1.342-1.462,1,0,1.36.42,1.36,1.462,0,1.02-.36,1.462-1.36,1.462-1.042,0-1.342-.441-1.342-1.462m.521-3.826c-.161-2.885-.34-6.07-.34-8.756,0-.521.28-.58,1.162-.58.9,0,1.182.06,1.182.58,0,2.685-.181,5.866-.341,8.756-.019.361-.22.4-.841.4-.6,0-.8-.04-.821-.4" transform="translate(5.896 6)" fill="#e85f5b"/>
+    </g>
+    <text id="_-" data-name="+/-" transform="translate(-11483.723 -11918.03)" fill="#fff" font-size="17" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">+/-</tspan></text>
+  </g>
+</svg>
