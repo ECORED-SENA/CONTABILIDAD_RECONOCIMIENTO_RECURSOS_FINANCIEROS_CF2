@@ -210,7 +210,7 @@
       .row.justify-content-center.align-items-center(numero="4" titulo="Libros de junta directiva o de consejo de administración")
         .col-lg-11
           p Es un libro cronológico que registra los detalles de los temas tratados en las reuniones de los administradores, miembros de la junta directiva y su presidente, el gerente y representante legal, entre los cuales se designa un secretario de reunión y presidente de reunión, quienes deben firmar cada acta que evidencia cada reunión.
-          p Según Ley 1755 de 2001 (Secretaría del Senado, 2020, Art. 47), las actas de reuniones deberán indicar si es trató de una reunión ordinaria o extraordinaria, la forma y mecanismo de convocatoria a los asistentes, debe llevar explícitamente los temas tratados o lo que se denomina el orden del día, y debe citar los nombres completos de los asistentes; de haberse tomado decisiones, se debe indicar la configuración de los votos emitidos en cada caso para la aprobación de los temas.  
+          p Según Ley 1755 de 2001 (Secretaría del Senado, 2020, Art. 47), las actas de reuniones deberán indicar si se trató de una reunión ordinaria o extraordinaria, la forma y mecanismo de convocatoria a los asistentes, debe llevar explícitamente los temas tratados o lo que se denomina el orden del día, y debe citar los nombres completos de los asistentes; de haberse tomado decisiones, se debe indicar la configuración de los votos emitidos en cada caso para la aprobación de los temas.  
 
           .row.justify-content-center.align-items-start.mt-5
             .col-lg-8.d-none.d-lg-block
